@@ -1,0 +1,702 @@
+{
+    "28": {
+        "project_id": 28,
+        "project_name": "Eglinton Crosstown LRT Early Civils & Station Works",
+        "completion_date": "2024-10-15",
+        "statutory_days": 45,
+        "release_deadline": "2024-11-29"
+    },
+    "74": {
+        "project_id": 74,
+        "project_name": "Sydney Metro City & Southwest (Northwest Section Works)",
+        "completion_date": "2019-05-26",
+        "statutory_days": 30,
+        "release_deadline": "2019-06-25"
+    },
+    "35": {
+        "project_id": 35,
+        "project_name": "Westgate Tunnel Project (Completed Sections)",
+        "completion_date": "2025-06-15",
+        "statutory_days": 30,
+        "release_deadline": "2025-07-15"
+    },
+    "41": {
+        "project_id": 41,
+        "project_name": "Harvey Milk Terminal Boarding Area B",
+        "completion_date": "2021-05-25",
+        "statutory_days": 60,
+        "release_deadline": "2021-07-24"
+    },
+    "98": {
+        "project_id": 98,
+        "project_name": "Green Line Extension (GLX) to Medford",
+        "completion_date": "2022-12-12",
+        "statutory_days": 60,
+        "release_deadline": "2023-02-10"
+    },
+    "10": {
+        "project_id": 10,
+        "project_name": "Salesforce Transit Center",
+        "completion_date": "2018-08-11",
+        "statutory_days": 60,
+        "release_deadline": "2018-10-10"
+    },
+    "38": {
+        "project_id": 38,
+        "project_name": "Calgary SW Ring Road (Municipal Connecting Sections)",
+        "completion_date": "2021-10-01",
+        "statutory_days": 45,
+        "release_deadline": "2021-11-15"
+    },
+    "69": {
+        "project_id": 69,
+        "project_name": "Vancouver Broadway Subway Millennium Line (Early Civils)",
+        "completion_date": "2024-04-15",
+        "statutory_days": 45,
+        "release_deadline": "2024-05-30"
+    },
+    "75": {
+        "project_id": 75,
+        "project_name": "Sydney Light Rail (CBD & South East)",
+        "completion_date": "2020-04-03",
+        "statutory_days": 30,
+        "release_deadline": "2020-05-03"
+    },
+    "11": {
+        "project_id": 11,
+        "project_name": "Central Subway Extension (T-Third Line)",
+        "completion_date": "2023-01-07",
+        "statutory_days": 60,
+        "release_deadline": "2023-03-08"
+    },
+    "30": {
+        "project_id": 30,
+        "project_name": "Gerald Desmond Bridge Replacement",
+        "completion_date": "2020-10-05",
+        "statutory_days": 60,
+        "release_deadline": "2020-12-04"
+    },
+    "89": {
+        "project_id": 89,
+        "project_name": "Northern Line Extension to Battersea",
+        "completion_date": "2021-09-20",
+        "statutory_days": 30,
+        "release_deadline": "2021-10-20"
+    },
+    "77": {
+        "project_id": 77,
+        "project_name": "Melbourne Airport Rail Link Early Utilities",
+        "completion_date": "2024-11-12",
+        "statutory_days": 30,
+        "release_deadline": "2024-12-12"
+    },
+    "83": {
+        "project_id": 83,
+        "project_name": "Perth METRONET Forrestfield-Airport Link",
+        "completion_date": "2022-10-09",
+        "statutory_days": 30,
+        "release_deadline": "2022-11-08"
+    },
+    "29": {
+        "project_id": 29,
+        "project_name": "Harbor Bridge Project (Early Sections)",
+        "completion_date": "2025-10-05",
+        "statutory_days": 60,
+        "release_deadline": "2025-12-04"
+    },
+    "36": {
+        "project_id": 36,
+        "project_name": "Gold Coast Light Rail Stage 3 (Civil Works)",
+        "completion_date": "2025-11-12",
+        "statutory_days": 30,
+        "release_deadline": "2025-12-12"
+    },
+    "90": {
+        "project_id": 90,
+        "project_name": "King's Cross St. Pancras Station Upgrade",
+        "completion_date": "2009-11-20",
+        "statutory_days": 30,
+        "release_deadline": "2009-12-20"
+    },
+    "68": {
+        "project_id": 68,
+        "project_name": "Calgary West LRT Extension",
+        "completion_date": "2012-12-10",
+        "statutory_days": 45,
+        "release_deadline": "2013-01-24"
+    },
+    "24": {
+        "project_id": 24,
+        "project_name": "Pattullo Bridge Replacement (Early Sections & Demolition)",
+        "completion_date": "2025-12-10",
+        "statutory_days": 45,
+        "release_deadline": "2026-01-24"
+    },
+    "19": {
+        "project_id": 19,
+        "project_name": "Port of Miami Tunnel",
+        "completion_date": "2014-08-03",
+        "statutory_days": 60,
+        "release_deadline": "2014-10-02"
+    },
+    "76": {
+        "project_id": 76,
+        "project_name": "Melbourne Metro Tunnel Town Hall Station Civils",
+        "completion_date": "2025-06-15",
+        "statutory_days": 30,
+        "release_deadline": "2025-07-15"
+    },
+    "100": {
+        "project_id": 100,
+        "project_name": "NYC Water Tunnel No. 3 Manhattan Section",
+        "completion_date": "2013-10-16",
+        "statutory_days": 60,
+        "release_deadline": "2013-12-15"
+    },
+    "73": {
+        "project_id": 73,
+        "project_name": "Toronto Don River & Central Waterfront Wet Weather Flow",
+        "completion_date": "2024-06-30",
+        "statutory_days": 45,
+        "release_deadline": "2024-08-14"
+    },
+    "47": {
+        "project_id": 47,
+        "project_name": "Brisbane Metro Rochedale Electric Bus Depot",
+        "completion_date": "2024-11-12",
+        "statutory_days": 30,
+        "release_deadline": "2024-12-12"
+    },
+    "95": {
+        "project_id": 95,
+        "project_name": "Denver RTD West Rail Line Construction",
+        "completion_date": "2013-04-26",
+        "statutory_days": 60,
+        "release_deadline": "2013-06-25"
+    },
+    "78": {
+        "project_id": 78,
+        "project_name": "Brisbane Cross River Rail Albert Street Station",
+        "completion_date": "2025-11-12",
+        "statutory_days": 30,
+        "release_deadline": "2025-12-12"
+    },
+    "72": {
+        "project_id": 72,
+        "project_name": "Toronto Union Station Revitalization",
+        "completion_date": "2021-07-27",
+        "statutory_days": 45,
+        "release_deadline": "2021-09-10"
+    },
+    "1": {
+        "project_id": 1,
+        "project_name": "Sixth Street Viaduct Replacement Project",
+        "completion_date": "2022-07-09",
+        "statutory_days": 60,
+        "release_deadline": "2022-09-07"
+    },
+    "23": {
+        "project_id": 23,
+        "project_name": "Ship Canal Water Quality Tunnel",
+        "completion_date": "2025-11-15",
+        "statutory_days": 60,
+        "release_deadline": "2026-01-14"
+    },
+    "5": {
+        "project_id": 5,
+        "project_name": "Moscone Center Expansion and Improvement",
+        "completion_date": "2019-01-03",
+        "statutory_days": 60,
+        "release_deadline": "2019-03-04"
+    },
+    "81": {
+        "project_id": 81,
+        "project_name": "Canberra Light Rail Stage 1 (Gungahlin to Civic)",
+        "completion_date": "2019-04-20",
+        "statutory_days": 30,
+        "release_deadline": "2019-05-20"
+    },
+    "87": {
+        "project_id": 87,
+        "project_name": "Elizabeth Line Paddington Station Construction",
+        "completion_date": "2022-05-24",
+        "statutory_days": 30,
+        "release_deadline": "2022-06-23"
+    },
+    "43": {
+        "project_id": 43,
+        "project_name": "LAX Airport Utility Tunnel Expansion",
+        "completion_date": "2022-10-10",
+        "statutory_days": 60,
+        "release_deadline": "2022-12-09"
+    },
+    "60": {
+        "project_id": 60,
+        "project_name": "LAPD Police Administration Building",
+        "completion_date": "2009-10-24",
+        "statutory_days": 60,
+        "release_deadline": "2009-12-23"
+    },
+    "16": {
+        "project_id": 16,
+        "project_name": "Kingsford Smith Drive Upgrade",
+        "completion_date": "2020-11-30",
+        "statutory_days": 30,
+        "release_deadline": "2020-12-30"
+    },
+    "6": {
+        "project_id": 6,
+        "project_name": "Elliott Bay Seawall Replacement",
+        "completion_date": "2017-06-30",
+        "statutory_days": 60,
+        "release_deadline": "2017-08-29"
+    },
+    "64": {
+        "project_id": 64,
+        "project_name": "Pure Water North City Pure Water Facility",
+        "completion_date": "2024-11-15",
+        "statutory_days": 60,
+        "release_deadline": "2025-01-14"
+    },
+    "40": {
+        "project_id": 40,
+        "project_name": "New Alaskan Way Surface Street",
+        "completion_date": "2023-09-15",
+        "statutory_days": 60,
+        "release_deadline": "2023-11-14"
+    },
+    "93": {
+        "project_id": 93,
+        "project_name": "O'Hare Airport Runway 9C-27C Construction",
+        "completion_date": "2020-11-05",
+        "statutory_days": 60,
+        "release_deadline": "2021-01-04"
+    },
+    "25": {
+        "project_id": 25,
+        "project_name": "LAX Central Terminal Area Parkway & Utilities",
+        "completion_date": "2021-11-20",
+        "statutory_days": 60,
+        "release_deadline": "2022-01-19"
+    },
+    "96": {
+        "project_id": 96,
+        "project_name": "Phoenix Northwest Extension Light Rail Phase 1",
+        "completion_date": "2016-03-19",
+        "statutory_days": 60,
+        "release_deadline": "2016-05-18"
+    },
+    "97": {
+        "project_id": 97,
+        "project_name": "PHX Sky Train Stage 2 Extension",
+        "completion_date": "2022-12-20",
+        "statutory_days": 60,
+        "release_deadline": "2023-02-18"
+    },
+    "70": {
+        "project_id": 70,
+        "project_name": "Toronto Coxwell Bypass Tunnel",
+        "completion_date": "2024-01-15",
+        "statutory_days": 45,
+        "release_deadline": "2024-02-29"
+    },
+    "80": {
+        "project_id": 80,
+        "project_name": "Gold Coast Light Rail Stage 2 (Broadbeach to Southport)",
+        "completion_date": "2017-12-18",
+        "statutory_days": 30,
+        "release_deadline": "2018-01-17"
+    },
+    "84": {
+        "project_id": 84,
+        "project_name": "Perth METRONET Joondalup Line Yanchep Extension",
+        "completion_date": "2024-07-14",
+        "statutory_days": 30,
+        "release_deadline": "2024-08-13"
+    },
+    "88": {
+        "project_id": 88,
+        "project_name": "Thames Tideway Tunnel Greenwich Connection",
+        "completion_date": "2024-11-15",
+        "statutory_days": 30,
+        "release_deadline": "2024-12-15"
+    },
+    "92": {
+        "project_id": 92,
+        "project_name": "CTA Red Line 95th Street Terminal Expansion",
+        "completion_date": "2019-04-15",
+        "statutory_days": 60,
+        "release_deadline": "2019-06-14"
+    },
+    "71": {
+        "project_id": 71,
+        "project_name": "Toronto Ashbridges Bay Wastewater Outfall",
+        "completion_date": "2024-11-15",
+        "statutory_days": 45,
+        "release_deadline": "2024-12-30"
+    },
+    "54": {
+        "project_id": 54,
+        "project_name": "Central Subway Chinatown Station Buildout",
+        "completion_date": "2023-01-07",
+        "statutory_days": 60,
+        "release_deadline": "2023-03-08"
+    },
+    "13": {
+        "project_id": 13,
+        "project_name": "F.G. Gardiner Expressway Strategic Rehabilitation (Phase 1)",
+        "completion_date": "2021-04-18",
+        "statutory_days": 45,
+        "release_deadline": "2021-06-02"
+    },
+    "32": {
+        "project_id": 32,
+        "project_name": "San Francisco City Hall Seismic Upgrade",
+        "completion_date": "1999-01-05",
+        "statutory_days": 60,
+        "release_deadline": "1999-03-06"
+    },
+    "66": {
+        "project_id": 66,
+        "project_name": "San Diego Airport Terminal 1 Utility Upgrades",
+        "completion_date": "2024-11-15",
+        "statutory_days": 60,
+        "release_deadline": "2025-01-14"
+    },
+    "65": {
+        "project_id": 65,
+        "project_name": "San Diego Central Library",
+        "completion_date": "2013-09-30",
+        "statutory_days": 60,
+        "release_deadline": "2013-11-29"
+    },
+    "67": {
+        "project_id": 67,
+        "project_name": "Calgary Central Library",
+        "completion_date": "2018-11-01",
+        "statutory_days": 45,
+        "release_deadline": "2018-12-16"
+    },
+    "17": {
+        "project_id": 17,
+        "project_name": "Queen Victoria Market Precinct Renewal (Phase 1)",
+        "completion_date": "2023-11-15",
+        "statutory_days": 30,
+        "release_deadline": "2023-12-15"
+    },
+    "44": {
+        "project_id": 44,
+        "project_name": "Pure Water Phase 1 - Miramar Water Treatment Plant",
+        "completion_date": "2024-05-20",
+        "statutory_days": 60,
+        "release_deadline": "2024-07-19"
+    },
+    "94": {
+        "project_id": 94,
+        "project_name": "Denver Airport Great Hall Renovation Phase 1",
+        "completion_date": "2021-10-27",
+        "statutory_days": 60,
+        "release_deadline": "2021-12-26"
+    },
+    "3": {
+        "project_id": 3,
+        "project_name": "West Mission Bay Drive Bridge Replacement",
+        "completion_date": "2023-04-25",
+        "statutory_days": 60,
+        "release_deadline": "2023-06-24"
+    },
+    "22": {
+        "project_id": 22,
+        "project_name": "RapidRide G Line - Madison Street BRT",
+        "completion_date": "2024-08-31",
+        "statutory_days": 60,
+        "release_deadline": "2024-10-30"
+    },
+    "52": {
+        "project_id": 52,
+        "project_name": "RapidRide J Line Project (Early Utility Rebuilds)",
+        "completion_date": "2024-10-08",
+        "statutory_days": 60,
+        "release_deadline": "2024-12-07"
+    },
+    "51": {
+        "project_id": 51,
+        "project_name": "Obama Presidential Center Public Infrastructure CDOT",
+        "completion_date": "2025-05-09",
+        "statutory_days": 60,
+        "release_deadline": "2025-07-08"
+    },
+    "4": {
+        "project_id": 4,
+        "project_name": "Austin Central Library",
+        "completion_date": "2017-10-28",
+        "statutory_days": 60,
+        "release_deadline": "2017-12-27"
+    },
+    "49": {
+        "project_id": 49,
+        "project_name": "Southwest Pump Station Refill Line (72-inch Water Line)",
+        "completion_date": "2025-08-15",
+        "statutory_days": 60,
+        "release_deadline": "2025-10-14"
+    },
+    "7": {
+        "project_id": 7,
+        "project_name": "Morena Pump Station and Pipelines (Pure Water)",
+        "completion_date": "2024-06-15",
+        "statutory_days": 60,
+        "release_deadline": "2024-08-14"
+    },
+    "63": {
+        "project_id": 63,
+        "project_name": "San Diego New Mission Bay Bridge",
+        "completion_date": "2023-07-17",
+        "statutory_days": 60,
+        "release_deadline": "2023-09-15"
+    },
+    "82": {
+        "project_id": 82,
+        "project_name": "Adelaide O-Bahn Busway City Access Guide",
+        "completion_date": "2017-12-10",
+        "statutory_days": 30,
+        "release_deadline": "2018-01-09"
+    },
+    "56": {
+        "project_id": 56,
+        "project_name": "Griffith Observatory Renovation & Expansion",
+        "completion_date": "2006-11-02",
+        "statutory_days": 60,
+        "release_deadline": "2007-01-01"
+    },
+    "46": {
+        "project_id": 46,
+        "project_name": "Adelaide Tram Extension",
+        "completion_date": "2018-10-12",
+        "statutory_days": 30,
+        "release_deadline": "2018-11-11"
+    },
+    "50": {
+        "project_id": 50,
+        "project_name": "Northeast Transmission Line Program",
+        "completion_date": "2024-04-20",
+        "statutory_days": 60,
+        "release_deadline": "2024-06-19"
+    },
+    "33": {
+        "project_id": 33,
+        "project_name": "Civic Center Courthouse",
+        "completion_date": "1997-12-10",
+        "statutory_days": 60,
+        "release_deadline": "1998-02-08"
+    },
+    "14": {
+        "project_id": 14,
+        "project_name": "Green Square Gunyama Park Aquatic and Recreation Centre",
+        "completion_date": "2021-02-01",
+        "statutory_days": 30,
+        "release_deadline": "2021-03-03"
+    },
+    "42": {
+        "project_id": 42,
+        "project_name": "San Jose Airport Concourse B Gate Expansion",
+        "completion_date": "2019-06-30",
+        "statutory_days": 60,
+        "release_deadline": "2019-08-29"
+    },
+    "12": {
+        "project_id": 12,
+        "project_name": "Kipling Six Points Interchange Reconfiguration",
+        "completion_date": "2021-02-15",
+        "statutory_days": 45,
+        "release_deadline": "2021-04-01"
+    },
+    "31": {
+        "project_id": 31,
+        "project_name": "War Memorial Opera House Seismic Upgrade",
+        "completion_date": "1998-09-05",
+        "statutory_days": 60,
+        "release_deadline": "1998-11-04"
+    },
+    "9": {
+        "project_id": 9,
+        "project_name": "Michelle and Barack Obama Sports Complex",
+        "completion_date": "2022-06-25",
+        "statutory_days": 60,
+        "release_deadline": "2022-08-24"
+    },
+    "27": {
+        "project_id": 27,
+        "project_name": "First Avenue Water Main Replacement",
+        "completion_date": "2021-08-14",
+        "statutory_days": 60,
+        "release_deadline": "2021-10-13"
+    },
+    "37": {
+        "project_id": 37,
+        "project_name": "Port Botany On-Dock Rail Expansion (Phase 1)",
+        "completion_date": "2023-04-12",
+        "statutory_days": 30,
+        "release_deadline": "2023-05-12"
+    },
+    "55": {
+        "project_id": 55,
+        "project_name": "Echo Park Lake Rehabilitation",
+        "completion_date": "2013-06-15",
+        "statutory_days": 60,
+        "release_deadline": "2013-08-14"
+    },
+    "20": {
+        "project_id": 20,
+        "project_name": "Adelaide Street Underpass",
+        "completion_date": "2024-11-05",
+        "statutory_days": 45,
+        "release_deadline": "2024-12-20"
+    },
+    "8": {
+        "project_id": 8,
+        "project_name": "La Media Road Improvements",
+        "completion_date": "2024-03-20",
+        "statutory_days": 60,
+        "release_deadline": "2024-05-19"
+    },
+    "18": {
+        "project_id": 18,
+        "project_name": "Mardi to Warnervale Water Pipeline",
+        "completion_date": "2021-04-30",
+        "statutory_days": 30,
+        "release_deadline": "2021-05-30"
+    },
+    "21": {
+        "project_id": 21,
+        "project_name": "Overlook Walk (Waterfront Seattle)",
+        "completion_date": "2024-10-04",
+        "statutory_days": 60,
+        "release_deadline": "2024-12-03"
+    },
+    "85": {
+        "project_id": 85,
+        "project_name": "Central Coast Mardi to Warnervale Water Pipeline",
+        "completion_date": "2021-04-30",
+        "statutory_days": 30,
+        "release_deadline": "2021-05-30"
+    },
+    "2": {
+        "project_id": 2,
+        "project_name": "Fireboat Station 35 (Floating Firehouse)",
+        "completion_date": "2022-03-10",
+        "statutory_days": 60,
+        "release_deadline": "2022-05-09"
+    },
+    "45": {
+        "project_id": 45,
+        "project_name": "South Delta Water Main Installation",
+        "completion_date": "2023-09-15",
+        "statutory_days": 45,
+        "release_deadline": "2023-10-30"
+    },
+    "48": {
+        "project_id": 48,
+        "project_name": "Mardi Water Treatment Plant Upgrade",
+        "completion_date": "2021-04-12",
+        "statutory_days": 30,
+        "release_deadline": "2021-05-12"
+    },
+    "53": {
+        "project_id": 53,
+        "project_name": "RapidRide H Line - Delridge Way SW",
+        "completion_date": "2023-03-18",
+        "statutory_days": 60,
+        "release_deadline": "2023-05-17"
+    },
+    "15": {
+        "project_id": 15,
+        "project_name": "Green Square Library and Plaza",
+        "completion_date": "2018-09-04",
+        "statutory_days": 30,
+        "release_deadline": "2018-10-04"
+    },
+    "39": {
+        "project_id": 39,
+        "project_name": "New Outfall Tunnel at Deer Island WTP",
+        "completion_date": "2021-05-12",
+        "statutory_days": 60,
+        "release_deadline": "2021-07-11"
+    },
+    "79": {
+        "project_id": 79,
+        "project_name": "Brisbane Kingsford Smith Drive Promenade Cantilever",
+        "completion_date": "2020-11-30",
+        "statutory_days": 30,
+        "release_deadline": "2020-12-30"
+    },
+    "86": {
+        "project_id": 86,
+        "project_name": "Hunter Water Wastewater Treatment Plant Outfall",
+        "completion_date": "2021-04-12",
+        "statutory_days": 30,
+        "release_deadline": "2021-05-12"
+    },
+    "91": {
+        "project_id": 91,
+        "project_name": "Miami Beach Stormwater Pump Station Reconstruction",
+        "completion_date": "2020-05-15",
+        "statutory_days": 60,
+        "release_deadline": "2020-07-14"
+    },
+    "61": {
+        "project_id": 61,
+        "project_name": "North Valley Fire Station No. 114",
+        "completion_date": "2011-04-12",
+        "statutory_days": 60,
+        "release_deadline": "2011-06-11"
+    },
+    "58": {
+        "project_id": 58,
+        "project_name": "Taylor Yard Pedestrian Bridge",
+        "completion_date": "2021-06-25",
+        "statutory_days": 60,
+        "release_deadline": "2021-08-24"
+    },
+    "59": {
+        "project_id": 59,
+        "project_name": "Temescal Canyon Stormwater BMP Project",
+        "completion_date": "2015-05-15",
+        "statutory_days": 60,
+        "release_deadline": "2015-07-14"
+    },
+    "99": {
+        "project_id": 99,
+        "project_name": "Harrison Avenue Sewer Rehabilitation",
+        "completion_date": "2021-04-18",
+        "statutory_days": 60,
+        "release_deadline": "2021-06-17"
+    },
+    "26": {
+        "project_id": 26,
+        "project_name": "Victoria Park Pool Upgrade",
+        "completion_date": "2025-05-18",
+        "statutory_days": 30,
+        "release_deadline": "2025-06-17"
+    },
+    "57": {
+        "project_id": 57,
+        "project_name": "South Los Angeles Wetlands Park",
+        "completion_date": "2012-02-10",
+        "statutory_days": 60,
+        "release_deadline": "2012-04-10"
+    },
+    "62": {
+        "project_id": 62,
+        "project_name": "Olympic Boulevard Mateo Street Improvements",
+        "completion_date": "2013-11-20",
+        "statutory_days": 60,
+        "release_deadline": "2014-01-19"
+    },
+    "34": {
+        "project_id": 34,
+        "project_name": "Waterfront Seattle Habitat Beach",
+        "completion_date": "2020-02-28",
+        "statutory_days": 60,
+        "release_deadline": "2020-04-28"
+    }
+}

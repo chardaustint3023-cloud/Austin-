@@ -1,0 +1,802 @@
+{
+    "28": {
+        "project_id": 28,
+        "contract_value": 12500000000,
+        "retainage_withheld": 1250000000.0,
+        "ledger_account_id": "TRE-RET-2026-0028",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical queue backlog in final closeout documentation & local record filings in the City's transportation registry."
+    },
+    "74": {
+        "project_id": 74,
+        "contract_value": 8000000000,
+        "retainage_withheld": 800000000.0,
+        "ledger_account_id": "TRE-RET-2026-0074",
+        "status": "HOLD_ACTIVE",
+        "comments": "Unclaimed retainage capital remaining in the ledger due to a historical missing final direct-deposit form from the builder."
+    },
+    "35": {
+        "project_id": 35,
+        "contract_value": 6800000000,
+        "retainage_withheld": 680000000.0,
+        "ledger_account_id": "TRE-RET-2026-0035",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury delay following a municipal ERP financial software platform migration."
+    },
+    "41": {
+        "project_id": 41,
+        "contract_value": 2400000000,
+        "retainage_withheld": 240000000.0,
+        "ledger_account_id": "TRE-RET-2026-0041",
+        "status": "HOLD_ACTIVE",
+        "comments": "The municipal audit department's queue is backlogged, delaying standard closeout approval."
+    },
+    "98": {
+        "project_id": 98,
+        "contract_value": 2300000000,
+        "retainage_withheld": 230000000.0,
+        "ledger_account_id": "TRE-RET-2026-0098",
+        "status": "HOLD_ACTIVE",
+        "comments": "The municipal audit department's queue is backlogged, delaying standard closeout approval."
+    },
+    "10": {
+        "project_id": 10,
+        "contract_value": 2200000000,
+        "retainage_withheld": 220000000.0,
+        "ledger_account_id": "TRE-RET-2026-0010",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in the treasury control branch's final multi-agency escrow ledger verification."
+    },
+    "38": {
+        "project_id": 38,
+        "contract_value": 2200000000,
+        "retainage_withheld": 220000000.0,
+        "ledger_account_id": "TRE-RET-2026-0038",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs in the central city treasury."
+    },
+    "69": {
+        "project_id": 69,
+        "contract_value": 2100000000,
+        "retainage_withheld": 210000000.0,
+        "ledger_account_id": "TRE-RET-2026-0069",
+        "status": "HOLD_ACTIVE",
+        "comments": "The municipal audit department's queue is backlogged, delaying standard closeout approval."
+    },
+    "75": {
+        "project_id": 75,
+        "contract_value": 2100000000,
+        "retainage_withheld": 210000000.0,
+        "ledger_account_id": "TRE-RET-2026-0075",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard long-term escrow closeout audit delayed by administrative review backlog in the state-municipal joint treasury division."
+    },
+    "11": {
+        "project_id": 11,
+        "contract_value": 1950000000,
+        "retainage_withheld": 195000000.0,
+        "ledger_account_id": "TRE-RET-2026-0011",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative queue backlog in processing contractor-submitted final closeout certificates."
+    },
+    "30": {
+        "project_id": 30,
+        "contract_value": 1470000000,
+        "retainage_withheld": 147000000.0,
+        "ledger_account_id": "TRE-RET-2026-0030",
+        "status": "HOLD_ACTIVE",
+        "comments": "Long-term escrow closeout audit delayed by administrative review backlog in the state-municipal joint treasury division."
+    },
+    "89": {
+        "project_id": 89,
+        "contract_value": 1400000000,
+        "retainage_withheld": 140000000.0,
+        "ledger_account_id": "TRE-RET-2026-0089",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard long-term escrow closeout audit delayed by administrative review backlog in the state-municipal joint treasury division."
+    },
+    "77": {
+        "project_id": 77,
+        "contract_value": 1330000000,
+        "retainage_withheld": 133000000.0,
+        "ledger_account_id": "TRE-RET-2026-0077",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in closeout auditing within the Finance Department. No disputes or quality defects are present."
+    },
+    "83": {
+        "project_id": 83,
+        "contract_value": 1230000000,
+        "retainage_withheld": 123000000.0,
+        "ledger_account_id": "TRE-RET-2026-0083",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in closeout auditing within the Finance Department. No disputes or quality defects are present."
+    },
+    "29": {
+        "project_id": 29,
+        "contract_value": 1200000000,
+        "retainage_withheld": 120000000.0,
+        "ledger_account_id": "TRE-RET-2026-0029",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "36": {
+        "project_id": 36,
+        "contract_value": 1200000000,
+        "retainage_withheld": 120000000.0,
+        "ledger_account_id": "TRE-RET-2026-0036",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "90": {
+        "project_id": 90,
+        "contract_value": 1050000000,
+        "retainage_withheld": 105000000.0,
+        "ledger_account_id": "TRE-RET-2026-0090",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "68": {
+        "project_id": 68,
+        "contract_value": 1040000000,
+        "retainage_withheld": 104000000.0,
+        "ledger_account_id": "TRE-RET-2026-0068",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard long-term escrow closeout audit delayed by administrative review backlog in the state-municipal joint treasury division."
+    },
+    "24": {
+        "project_id": 24,
+        "contract_value": 1030000000,
+        "retainage_withheld": 103000000.0,
+        "ledger_account_id": "TRE-RET-2026-0024",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard provincial holdback verification backlog within the Accounts Payable closeout department."
+    },
+    "19": {
+        "project_id": 19,
+        "contract_value": 1000000000,
+        "retainage_withheld": 100000000.0,
+        "ledger_account_id": "TRE-RET-2026-0019",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard long-term escrow closeout audit delayed by administrative review backlog in the state-municipal joint treasury division."
+    },
+    "76": {
+        "project_id": 76,
+        "contract_value": 1000000000,
+        "retainage_withheld": 100000000.0,
+        "ledger_account_id": "TRE-RET-2026-0076",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury delay following a municipal ERP financial software platform migration."
+    },
+    "100": {
+        "project_id": 100,
+        "contract_value": 1000000000,
+        "retainage_withheld": 100000000.0,
+        "ledger_account_id": "TRE-RET-2026-0100",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "73": {
+        "project_id": 73,
+        "contract_value": 810000000,
+        "retainage_withheld": 81000000.0,
+        "ledger_account_id": "TRE-RET-2026-0073",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury delay following a municipal ERP financial software platform migration."
+    },
+    "47": {
+        "project_id": 47,
+        "contract_value": 800000000,
+        "retainage_withheld": 80000000.0,
+        "ledger_account_id": "TRE-RET-2026-0047",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in closeout auditing within the Brisbane Council finance branch."
+    },
+    "95": {
+        "project_id": 95,
+        "contract_value": 707000000,
+        "retainage_withheld": 70700000.0,
+        "ledger_account_id": "TRE-RET-2026-0095",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "78": {
+        "project_id": 78,
+        "contract_value": 660000000,
+        "retainage_withheld": 66000000.0,
+        "ledger_account_id": "TRE-RET-2026-0078",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "72": {
+        "project_id": 72,
+        "contract_value": 610000000,
+        "retainage_withheld": 61000000.0,
+        "ledger_account_id": "TRE-RET-2026-0072",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs in the central city treasury."
+    },
+    "1": {
+        "project_id": 1,
+        "contract_value": 588000000,
+        "retainage_withheld": 58800000.0,
+        "ledger_account_id": "TRE-RET-2026-0001",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury backlog in verifying sub-tier lien waivers during municipal software transition."
+    },
+    "23": {
+        "project_id": 23,
+        "contract_value": 570000000,
+        "retainage_withheld": 57000000.0,
+        "ledger_account_id": "TRE-RET-2026-0023",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "5": {
+        "project_id": 5,
+        "contract_value": 551000000,
+        "retainage_withheld": 55100000.0,
+        "ledger_account_id": "TRE-RET-2026-0005",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal sign-off and auditing by the City's capital planning board."
+    },
+    "81": {
+        "project_id": 81,
+        "contract_value": 470000000,
+        "retainage_withheld": 47000000.0,
+        "ledger_account_id": "TRE-RET-2026-0081",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs in the central treasury."
+    },
+    "87": {
+        "project_id": 87,
+        "contract_value": 450000000,
+        "retainage_withheld": 45000000.0,
+        "ledger_account_id": "TRE-RET-2026-0087",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in closeout auditing within TfL's Accounts Payable department."
+    },
+    "43": {
+        "project_id": 43,
+        "contract_value": 448000000,
+        "retainage_withheld": 44800000.0,
+        "ledger_account_id": "TRE-RET-2026-0043",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury backlog in verifying sub-tier lien waivers during municipal software transition."
+    },
+    "60": {
+        "project_id": 60,
+        "contract_value": 437000000,
+        "retainage_withheld": 43700000.0,
+        "ledger_account_id": "TRE-RET-2026-0060",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "16": {
+        "project_id": 16,
+        "contract_value": 430000000,
+        "retainage_withheld": 43000000.0,
+        "ledger_account_id": "TRE-RET-2026-0016",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in closeout auditing within the Brisbane Council finance branch."
+    },
+    "6": {
+        "project_id": 6,
+        "contract_value": 410000000,
+        "retainage_withheld": 41000000.0,
+        "ledger_account_id": "TRE-RET-2026-0006",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staff transitions and backlogs in standard post-audit contract closeout reviews."
+    },
+    "64": {
+        "project_id": 64,
+        "contract_value": 356000000,
+        "retainage_withheld": 35600000.0,
+        "ledger_account_id": "TRE-RET-2026-0064",
+        "status": "HOLD_ACTIVE",
+        "comments": "General AP closeout queue backlog following a massive volume of capital works file handovers."
+    },
+    "40": {
+        "project_id": 40,
+        "contract_value": 347000000,
+        "retainage_withheld": 34700000.0,
+        "ledger_account_id": "TRE-RET-2026-0040",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "93": {
+        "project_id": 93,
+        "contract_value": 340000000,
+        "retainage_withheld": 34000000.0,
+        "ledger_account_id": "TRE-RET-2026-0093",
+        "status": "HOLD_ACTIVE",
+        "comments": "The municipal audit department's queue is backlogged, delaying standard closeout approval."
+    },
+    "25": {
+        "project_id": 25,
+        "contract_value": 336000000,
+        "retainage_withheld": 33600000.0,
+        "ledger_account_id": "TRE-RET-2026-0025",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit contract closeout reviews."
+    },
+    "96": {
+        "project_id": 96,
+        "contract_value": 327000000,
+        "retainage_withheld": 32700000.0,
+        "ledger_account_id": "TRE-RET-2026-0096",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staff transitions and backlogs in standard post-audit contract closeout reviews."
+    },
+    "97": {
+        "project_id": 97,
+        "contract_value": 310000000,
+        "retainage_withheld": 31000000.0,
+        "ledger_account_id": "TRE-RET-2026-0097",
+        "status": "HOLD_ACTIVE",
+        "comments": "General AP closeout queue backlog following a massive volume of capital works file handovers."
+    },
+    "70": {
+        "project_id": 70,
+        "contract_value": 295000000,
+        "retainage_withheld": 29500000.0,
+        "ledger_account_id": "TRE-RET-2026-0070",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "80": {
+        "project_id": 80,
+        "contract_value": 280000000,
+        "retainage_withheld": 28000000.0,
+        "ledger_account_id": "TRE-RET-2026-0080",
+        "status": "HOLD_ACTIVE",
+        "comments": "Unclaimed retainage capital remaining in the ledger due to a historical missing final direct-deposit form from the builder."
+    },
+    "84": {
+        "project_id": 84,
+        "contract_value": 280000000,
+        "retainage_withheld": 28000000.0,
+        "ledger_account_id": "TRE-RET-2026-0084",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury delay following a municipal ERP financial software platform migration."
+    },
+    "88": {
+        "project_id": 88,
+        "contract_value": 280000000,
+        "retainage_withheld": 28000000.0,
+        "ledger_account_id": "TRE-RET-2026-0088",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing the final electronic funds transfer from the municipal capital works escrow account."
+    },
+    "92": {
+        "project_id": 92,
+        "contract_value": 280000000,
+        "retainage_withheld": 28000000.0,
+        "ledger_account_id": "TRE-RET-2026-0092",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit contract closeout reviews."
+    },
+    "71": {
+        "project_id": 71,
+        "contract_value": 260000000,
+        "retainage_withheld": 26000000.0,
+        "ledger_account_id": "TRE-RET-2026-0071",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "54": {
+        "project_id": 54,
+        "contract_value": 250000000,
+        "retainage_withheld": 25000000.0,
+        "ledger_account_id": "TRE-RET-2026-0054",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "13": {
+        "project_id": 13,
+        "contract_value": 220000000,
+        "retainage_withheld": 22000000.0,
+        "ledger_account_id": "TRE-RET-2026-0013",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs in the central city treasury."
+    },
+    "32": {
+        "project_id": 32,
+        "contract_value": 220000000,
+        "retainage_withheld": 22000000.0,
+        "ledger_account_id": "TRE-RET-2026-0032",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard long-term escrow closeout audit delayed by administrative review backlog in the state-municipal joint treasury division."
+    },
+    "66": {
+        "project_id": 66,
+        "contract_value": 220000000,
+        "retainage_withheld": 22000000.0,
+        "ledger_account_id": "TRE-RET-2026-0066",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in closeout auditing within the Finance Department. No disputes or quality defects are present."
+    },
+    "65": {
+        "project_id": 65,
+        "contract_value": 185000000,
+        "retainage_withheld": 18500000.0,
+        "ledger_account_id": "TRE-RET-2026-0065",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "67": {
+        "project_id": 67,
+        "contract_value": 182000000,
+        "retainage_withheld": 18200000.0,
+        "ledger_account_id": "TRE-RET-2026-0067",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs in the central city treasury."
+    },
+    "17": {
+        "project_id": 17,
+        "contract_value": 165000000,
+        "retainage_withheld": 16500000.0,
+        "ledger_account_id": "TRE-RET-2026-0017",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "44": {
+        "project_id": 44,
+        "contract_value": 150000000,
+        "retainage_withheld": 15000000.0,
+        "ledger_account_id": "TRE-RET-2026-0044",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "94": {
+        "project_id": 94,
+        "contract_value": 150000000,
+        "retainage_withheld": 15000000.0,
+        "ledger_account_id": "TRE-RET-2026-0094",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "3": {
+        "project_id": 3,
+        "contract_value": 148000000,
+        "retainage_withheld": 14800000.0,
+        "ledger_account_id": "TRE-RET-2026-0003",
+        "status": "HOLD_ACTIVE",
+        "comments": "General AP closeout queue backlog following a massive volume of capital works file handovers."
+    },
+    "22": {
+        "project_id": 22,
+        "contract_value": 140000000,
+        "retainage_withheld": 14000000.0,
+        "ledger_account_id": "TRE-RET-2026-0022",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "52": {
+        "project_id": 52,
+        "contract_value": 128500000,
+        "retainage_withheld": 12850000.0,
+        "ledger_account_id": "TRE-RET-2026-0052",
+        "status": "HOLD_ACTIVE",
+        "comments": "General AP closeout queue backlog following a massive volume of capital works file handovers."
+    },
+    "51": {
+        "project_id": 51,
+        "contract_value": 123300000,
+        "retainage_withheld": 12330000.0,
+        "ledger_account_id": "TRE-RET-2026-0051",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "4": {
+        "project_id": 4,
+        "contract_value": 120000000,
+        "retainage_withheld": 12000000.0,
+        "ledger_account_id": "TRE-RET-2026-0004",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "49": {
+        "project_id": 49,
+        "contract_value": 120000000,
+        "retainage_withheld": 12000000.0,
+        "ledger_account_id": "TRE-RET-2026-0049",
+        "status": "HOLD_ACTIVE",
+        "comments": "The municipal audit department's queue is backlogged, delaying standard closeout approval."
+    },
+    "7": {
+        "project_id": 7,
+        "contract_value": 110000000,
+        "retainage_withheld": 11000000.0,
+        "ledger_account_id": "TRE-RET-2026-0007",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delays in executing the final electronic funds transfer from the municipal capital works escrow account."
+    },
+    "63": {
+        "project_id": 63,
+        "contract_value": 110000000,
+        "retainage_withheld": 11000000.0,
+        "ledger_account_id": "TRE-RET-2026-0063",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "82": {
+        "project_id": 82,
+        "contract_value": 106000000,
+        "retainage_withheld": 10600000.0,
+        "ledger_account_id": "TRE-RET-2026-0082",
+        "status": "HOLD_ACTIVE",
+        "comments": "Unclaimed retainage capital remaining in the ledger due to a historical missing final direct-deposit form from the builder."
+    },
+    "56": {
+        "project_id": 56,
+        "contract_value": 93000000,
+        "retainage_withheld": 9300000.0,
+        "ledger_account_id": "TRE-RET-2026-0056",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "46": {
+        "project_id": 46,
+        "contract_value": 80000000,
+        "retainage_withheld": 8000000.0,
+        "ledger_account_id": "TRE-RET-2026-0046",
+        "status": "HOLD_ACTIVE",
+        "comments": "Unclaimed retainage capital remaining in the ledger due to a historical missing final direct-deposit form from the builder."
+    },
+    "50": {
+        "project_id": 50,
+        "contract_value": 75000000,
+        "retainage_withheld": 7500000.0,
+        "ledger_account_id": "TRE-RET-2026-0050",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staff transitions and backlogs in standard post-audit contract closeout reviews."
+    },
+    "33": {
+        "project_id": 33,
+        "contract_value": 70500000,
+        "retainage_withheld": 7050000.0,
+        "ledger_account_id": "TRE-RET-2026-0033",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard long-term escrow closeout audit delayed by administrative review backlog in the state-municipal joint treasury division."
+    },
+    "14": {
+        "project_id": 14,
+        "contract_value": 70000000,
+        "retainage_withheld": 7000000.0,
+        "ledger_account_id": "TRE-RET-2026-0014",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of standard contractor closeout forms due to local council staff turnover."
+    },
+    "42": {
+        "project_id": 42,
+        "contract_value": 58000000,
+        "retainage_withheld": 5800000.0,
+        "ledger_account_id": "TRE-RET-2026-0042",
+        "status": "HOLD_ACTIVE",
+        "comments": "General AP closeout queue backlog following a massive volume of capital works file handovers."
+    },
+    "12": {
+        "project_id": 12,
+        "contract_value": 57000000,
+        "retainage_withheld": 5700000.0,
+        "ledger_account_id": "TRE-RET-2026-0012",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative delay in standard provincial holdback verification by the Toronto Water division."
+    },
+    "31": {
+        "project_id": 31,
+        "contract_value": 56000000,
+        "retainage_withheld": 5600000.0,
+        "ledger_account_id": "TRE-RET-2026-0031",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "9": {
+        "project_id": 9,
+        "contract_value": 50000000,
+        "retainage_withheld": 5000000.0,
+        "ledger_account_id": "TRE-RET-2026-0009",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury delay following a municipal ERP financial software platform migration."
+    },
+    "27": {
+        "project_id": 27,
+        "contract_value": 45000000,
+        "retainage_withheld": 4500000.0,
+        "ledger_account_id": "TRE-RET-2026-0027",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative queue backlog in processing contractor-submitted final closeout certificates."
+    },
+    "37": {
+        "project_id": 37,
+        "contract_value": 45000000,
+        "retainage_withheld": 4500000.0,
+        "ledger_account_id": "TRE-RET-2026-0037",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing the final electronic funds transfer from the municipal capital works escrow account."
+    },
+    "55": {
+        "project_id": 55,
+        "contract_value": 45000000,
+        "retainage_withheld": 4500000.0,
+        "ledger_account_id": "TRE-RET-2026-0055",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "20": {
+        "project_id": 20,
+        "contract_value": 43000000,
+        "retainage_withheld": 4300000.0,
+        "ledger_account_id": "TRE-RET-2026-0020",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "8": {
+        "project_id": 8,
+        "contract_value": 42700000,
+        "retainage_withheld": 4270000.0,
+        "ledger_account_id": "TRE-RET-2026-0008",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical queue backlog in final closeout documentation & local record filings in the City's transportation registry."
+    },
+    "18": {
+        "project_id": 18,
+        "contract_value": 40000000,
+        "retainage_withheld": 4000000.0,
+        "ledger_account_id": "TRE-RET-2026-0018",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative queue backlog in processing sub-tier lien waivers during regional council software transition."
+    },
+    "21": {
+        "project_id": 21,
+        "contract_value": 40000000,
+        "retainage_withheld": 4000000.0,
+        "ledger_account_id": "TRE-RET-2026-0021",
+        "status": "HOLD_ACTIVE",
+        "comments": "The municipal audit department's queue is backlogged, delaying standard closeout approval."
+    },
+    "85": {
+        "project_id": 85,
+        "contract_value": 40000000,
+        "retainage_withheld": 4000000.0,
+        "ledger_account_id": "TRE-RET-2026-0085",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative queue backlog in processing sub-tier lien waivers during regional council software transition."
+    },
+    "2": {
+        "project_id": 2,
+        "contract_value": 39900000,
+        "retainage_withheld": 3990000.0,
+        "ledger_account_id": "TRE-RET-2026-0002",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative queue delay in final sales and use tax tax-exempt auditing in the City controller's division."
+    },
+    "45": {
+        "project_id": 45,
+        "contract_value": 38000000,
+        "retainage_withheld": 3800000.0,
+        "ledger_account_id": "TRE-RET-2026-0045",
+        "status": "HOLD_ACTIVE",
+        "comments": "Standard provincial holdback verification backlog within the Accounts Payable closeout department."
+    },
+    "48": {
+        "project_id": 48,
+        "contract_value": 35000000,
+        "retainage_withheld": 3500000.0,
+        "ledger_account_id": "TRE-RET-2026-0048",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of standard contractor closeout forms due to local council staff turnover."
+    },
+    "53": {
+        "project_id": 53,
+        "contract_value": 35000000,
+        "retainage_withheld": 3500000.0,
+        "ledger_account_id": "TRE-RET-2026-0053",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury backlog in verifying sub-tier lien waivers during municipal software transition."
+    },
+    "15": {
+        "project_id": 15,
+        "contract_value": 31000000,
+        "retainage_withheld": 3100000.0,
+        "ledger_account_id": "TRE-RET-2026-0015",
+        "status": "HOLD_ACTIVE",
+        "comments": "Unclaimed retainage capital remaining in the ledger due to a historical missing final direct-deposit form from the builder."
+    },
+    "39": {
+        "project_id": 39,
+        "contract_value": 30000000,
+        "retainage_withheld": 3000000.0,
+        "ledger_account_id": "TRE-RET-2026-0039",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "79": {
+        "project_id": 79,
+        "contract_value": 30000000,
+        "retainage_withheld": 3000000.0,
+        "ledger_account_id": "TRE-RET-2026-0079",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in closeout auditing within the Brisbane Council finance branch."
+    },
+    "86": {
+        "project_id": 86,
+        "contract_value": 25000000,
+        "retainage_withheld": 2500000.0,
+        "ledger_account_id": "TRE-RET-2026-0086",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of standard contractor closeout forms due to local council staff turnover."
+    },
+    "91": {
+        "project_id": 91,
+        "contract_value": 25000000,
+        "retainage_withheld": 2500000.0,
+        "ledger_account_id": "TRE-RET-2026-0091",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury backlog in verifying sub-tier lien waivers during municipal software transition."
+    },
+    "61": {
+        "project_id": 61,
+        "contract_value": 23000000,
+        "retainage_withheld": 2300000.0,
+        "ledger_account_id": "TRE-RET-2026-0061",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "58": {
+        "project_id": 58,
+        "contract_value": 20000000,
+        "retainage_withheld": 2000000.0,
+        "ledger_account_id": "TRE-RET-2026-0058",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "59": {
+        "project_id": 59,
+        "contract_value": 18000000,
+        "retainage_withheld": 1800000.0,
+        "ledger_account_id": "TRE-RET-2026-0059",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "99": {
+        "project_id": 99,
+        "contract_value": 18000000,
+        "retainage_withheld": 1800000.0,
+        "ledger_account_id": "TRE-RET-2026-0099",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury backlog in verifying sub-tier lien waivers during municipal software transition."
+    },
+    "26": {
+        "project_id": 26,
+        "contract_value": 15000000,
+        "retainage_withheld": 1500000.0,
+        "ledger_account_id": "TRE-RET-2026-0026",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury delay following a municipal ERP financial software platform migration."
+    },
+    "57": {
+        "project_id": 57,
+        "contract_value": 15000000,
+        "retainage_withheld": 1500000.0,
+        "ledger_account_id": "TRE-RET-2026-0057",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "62": {
+        "project_id": 62,
+        "contract_value": 12000000,
+        "retainage_withheld": 1200000.0,
+        "ledger_account_id": "TRE-RET-2026-0062",
+        "status": "HOLD_ACTIVE",
+        "comments": "Historical treasury oversight where the contractor failed to submit a final administrative request for release, leaving funds sitting as unclaimed holdbacks."
+    },
+    "34": {
+        "project_id": 34,
+        "contract_value": 10500000,
+        "retainage_withheld": 1050000.0,
+        "ledger_account_id": "TRE-RET-2026-0034",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staff transitions and backlogs in standard post-audit contract closeout reviews."
+    }
+}
