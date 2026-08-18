@@ -1,0 +1,452 @@
+{
+    "1": {
+        "project_id": 1,
+        "project_name": "Sixth Street Viaduct Replacement Project",
+        "substantial_completion_date": "2022-11-30",
+        "completion_certificate_date": "2022-12-05",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2023-02-03",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "2": {
+        "project_id": 2,
+        "project_name": "Michelle and Barack Obama Sports Complex",
+        "substantial_completion_date": "2022-11-30",
+        "completion_certificate_date": "2022-12-05",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2023-02-03",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "3": {
+        "project_id": 3,
+        "project_name": "Pure Water San Diego - Morena Pump Station and Pipelines",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2024-12-09",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "4": {
+        "project_id": 4,
+        "project_name": "La Media Road Improvements",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2024-12-09",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "5": {
+        "project_id": 5,
+        "project_name": "San Francisco Police Department HQ & Public Safety Campus",
+        "substantial_completion_date": "2015-04-30",
+        "completion_certificate_date": "2015-05-05",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2015-07-04",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "6": {
+        "project_id": 6,
+        "project_name": "War Memorial Opera House Seismic Upgrade & Renovation",
+        "substantial_completion_date": "1998-04-30",
+        "completion_certificate_date": "1998-05-05",
+        "statutory_days": 60,
+        "statutory_deadline_date": "1998-07-04",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "7": {
+        "project_id": 7,
+        "project_name": "San Francisco City Hall Seismic Upgrade & Restoration",
+        "substantial_completion_date": "1999-04-30",
+        "completion_certificate_date": "1999-05-05",
+        "statutory_days": 60,
+        "statutory_deadline_date": "1999-07-04",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "8": {
+        "project_id": 8,
+        "project_name": "22nd Street Bridge Replacement and Revitalization",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "9": {
+        "project_id": 9,
+        "project_name": "Tallahassee Regional Transit Center",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "10": {
+        "project_id": 10,
+        "project_name": "Downtown New Orleans Transit Center & Street Safety",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "11": {
+        "project_id": 11,
+        "project_name": "Lake Street Multimodal Corridor Improvements",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "12": {
+        "project_id": 12,
+        "project_name": "W. 51st Street Extension & Railroad Pedestrian Bridge",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "13": {
+        "project_id": 13,
+        "project_name": "Southside Bus Operating & Maintenance Facility",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "14": {
+        "project_id": 14,
+        "project_name": "Forest Hill Flyover (75th Street Corridor Project)",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "15": {
+        "project_id": 15,
+        "project_name": "Red and Purple Line Modernization (RPM) Phase One",
+        "substantial_completion_date": "2026-01-15",
+        "completion_certificate_date": "2026-01-20",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2026-03-21",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "16": {
+        "project_id": 16,
+        "project_name": "Machado Lake Ecosystem Rehabilitation Project",
+        "substantial_completion_date": "2018-09-18",
+        "completion_certificate_date": "2018-09-23",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2018-11-22",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "17": {
+        "project_id": 17,
+        "project_name": "Hyperion Water Reclamation Plant Digester Gas Utilization",
+        "substantial_completion_date": "2018-09-18",
+        "completion_certificate_date": "2018-09-23",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2018-11-22",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "18": {
+        "project_id": 18,
+        "project_name": "Terminal Island Advanced Water Purification Facility expansion",
+        "substantial_completion_date": "2018-09-18",
+        "completion_certificate_date": "2018-09-23",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2018-11-22",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "19": {
+        "project_id": 19,
+        "project_name": "Riverside Drive Viaduct Replacement",
+        "substantial_completion_date": "2018-09-18",
+        "completion_certificate_date": "2018-09-23",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2018-11-22",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "20": {
+        "project_id": 20,
+        "project_name": "City of Arcadia Main Stormwater Channel Widening",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "21": {
+        "project_id": 21,
+        "project_name": "Arcadia Wastewater Treatment Plant Expansion",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "22": {
+        "project_id": 22,
+        "project_name": "North Florida Regional Special Needs Emergency Shelter",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "23": {
+        "project_id": 23,
+        "project_name": "Town of St. Lucie Centralized Potable Water Supply",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "24": {
+        "project_id": 24,
+        "project_name": "Avon Park Sanitary Sewer Collection System Rehabilitation",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "25": {
+        "project_id": 25,
+        "project_name": "Dundee Potable Water & Sanitary Sewer Hardening",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2025-08-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "26": {
+        "project_id": 26,
+        "project_name": "Central Subway Extension (T-Third Line)",
+        "substantial_completion_date": "2023-04-12",
+        "completion_certificate_date": "2023-04-17",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2023-06-16",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "27": {
+        "project_id": 27,
+        "project_name": "Salesforce Transit Center",
+        "substantial_completion_date": "2018-09-18",
+        "completion_certificate_date": "2018-09-23",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2018-11-22",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "28": {
+        "project_id": 28,
+        "project_name": "Water and Sewer Main Replacement Program (FY23)",
+        "substantial_completion_date": "2023-04-12",
+        "completion_certificate_date": "2023-04-17",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2023-06-16",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "29": {
+        "project_id": 29,
+        "project_name": "Seattle Central Waterfront Overlook Walk",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2024-12-09",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "30": {
+        "project_id": 30,
+        "project_name": "Elliott Bay Seawall Replacement",
+        "substantial_completion_date": "2017-12-10",
+        "completion_certificate_date": "2017-12-15",
+        "statutory_days": 60,
+        "statutory_deadline_date": "2018-02-13",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "31": {
+        "project_id": 31,
+        "project_name": "Kipling, Bloor, & Dundas Six Points Interchange Reconfiguration",
+        "substantial_completion_date": "2021-08-14",
+        "completion_certificate_date": "2021-08-19",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2021-10-03",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "32": {
+        "project_id": 32,
+        "project_name": "F.G. Gardiner Expressway Strategic Rehabilitation (Phase 1)",
+        "substantial_completion_date": "2021-08-14",
+        "completion_certificate_date": "2021-08-19",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2021-10-03",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "33": {
+        "project_id": 33,
+        "project_name": "Coxwell Bypass Tunnel (Don River Waterfront Project - Phase 1)",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2024-11-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "34": {
+        "project_id": 34,
+        "project_name": "Jane Street Bridge Crossing Restoration",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2024-11-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "35": {
+        "project_id": 35,
+        "project_name": "TACC New Westminster Aquatic Centre (t\u2019\u0259m\u00edx\u02b7 rst)",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2024-11-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "36": {
+        "project_id": 36,
+        "project_name": "Pattullo Bridge Replacement Project",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2025-08-09",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "37": {
+        "project_id": 37,
+        "project_name": "East London Sewer Separation Project",
+        "substantial_completion_date": "2025-06-20",
+        "completion_certificate_date": "2025-06-25",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2025-08-09",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "38": {
+        "project_id": 38,
+        "project_name": "Adelaide Street Underpass Construction",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2024-11-24",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "39": {
+        "project_id": 39,
+        "project_name": "Crowchild Trail Corridor Upgrade (Phase 1)",
+        "substantial_completion_date": "2020-02-28",
+        "completion_certificate_date": "2020-03-04",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2020-04-18",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "40": {
+        "project_id": 40,
+        "project_name": "South Delta Water Main Installation",
+        "substantial_completion_date": "2023-04-12",
+        "completion_certificate_date": "2023-04-17",
+        "statutory_days": 45,
+        "statutory_deadline_date": "2023-06-01",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "41": {
+        "project_id": 41,
+        "project_name": "WestConnex M4-M5 Link Tunnels",
+        "substantial_completion_date": "2023-04-12",
+        "completion_certificate_date": "2023-04-17",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2023-05-17",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "42": {
+        "project_id": 42,
+        "project_name": "Sydney Metro Northwest (Civil Works & Stations)",
+        "substantial_completion_date": "2019-05-22",
+        "completion_certificate_date": "2019-05-27",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2019-06-26",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "43": {
+        "project_id": 43,
+        "project_name": "Rozelle Interchange (WestConnex Stage 3)",
+        "substantial_completion_date": "2023-04-12",
+        "completion_certificate_date": "2023-04-17",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2023-05-17",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "44": {
+        "project_id": 44,
+        "project_name": "George Street Pedestrianization Boulevard",
+        "substantial_completion_date": "2021-08-14",
+        "completion_certificate_date": "2021-08-19",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2021-09-18",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "45": {
+        "project_id": 45,
+        "project_name": "Gunyama Park Aquatic and Recreation Centre",
+        "substantial_completion_date": "2021-08-14",
+        "completion_certificate_date": "2021-08-19",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2021-09-18",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "46": {
+        "project_id": 46,
+        "project_name": "Green Square Library and Plaza",
+        "substantial_completion_date": "2018-09-18",
+        "completion_certificate_date": "2018-09-23",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2018-10-23",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "47": {
+        "project_id": 47,
+        "project_name": "Kingsford Smith Drive Upgrade",
+        "substantial_completion_date": "2020-02-28",
+        "completion_certificate_date": "2020-03-04",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2020-04-03",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "48": {
+        "project_id": 48,
+        "project_name": "Brisbane Metro Electric Bus Depot & Infrastructure",
+        "substantial_completion_date": "2024-10-05",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2024-11-09",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "49": {
+        "project_id": 49,
+        "project_name": "Queen Victoria Market Precinct Renewal (Phase 1)",
+        "substantial_completion_date": "2023-04-12",
+        "completion_certificate_date": "2023-04-17",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2023-05-17",
+        "signatory_official": "Chief Municipal Inspector"
+    },
+    "50": {
+        "project_id": 50,
+        "project_name": "Mardi to Warnervale Water Pipeline",
+        "substantial_completion_date": "2021-08-14",
+        "completion_certificate_date": "2021-08-19",
+        "statutory_days": 30,
+        "statutory_deadline_date": "2021-09-18",
+        "signatory_official": "Chief Municipal Inspector"
+    }
+}
