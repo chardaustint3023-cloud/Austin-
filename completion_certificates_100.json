@@ -1,0 +1,702 @@
+{
+    "1": {
+        "project_id": 1,
+        "project_name": "Regional Cargo Freight Depot Expansion",
+        "completion_certificate_date": "2022-02-02",
+        "statutory_days": 60,
+        "release_deadline": "2022-04-03"
+    },
+    "2": {
+        "project_id": 2,
+        "project_name": "South Corridor Bridge Rehabilitation Project",
+        "completion_certificate_date": "2023-03-03",
+        "statutory_days": 60,
+        "release_deadline": "2023-05-02"
+    },
+    "3": {
+        "project_id": 3,
+        "project_name": "Downtown Bus Maintenance Depot Interchange",
+        "completion_certificate_date": "2024-04-04",
+        "statutory_days": 60,
+        "release_deadline": "2024-06-03"
+    },
+    "4": {
+        "project_id": 4,
+        "project_name": "North District Civic Resources Hub Center",
+        "completion_certificate_date": "2025-05-05",
+        "statutory_days": 60,
+        "release_deadline": "2025-07-04"
+    },
+    "5": {
+        "project_id": 5,
+        "project_name": "Municipal Sewer separation Line Hardening",
+        "completion_certificate_date": "2021-06-06",
+        "statutory_days": 60,
+        "release_deadline": "2021-08-05"
+    },
+    "6": {
+        "project_id": 6,
+        "project_name": "Seismic Civic Resources Hub Retrofit",
+        "completion_certificate_date": "2022-07-07",
+        "statutory_days": 60,
+        "release_deadline": "2022-09-05"
+    },
+    "7": {
+        "project_id": 7,
+        "project_name": "Eastside Expressway Corridor Widening",
+        "completion_certificate_date": "2023-08-08",
+        "statutory_days": 60,
+        "release_deadline": "2023-10-07"
+    },
+    "8": {
+        "project_id": 8,
+        "project_name": "Central Valley Water Treatment Plant Trunk Line",
+        "completion_certificate_date": "2024-09-09",
+        "statutory_days": 60,
+        "release_deadline": "2024-11-08"
+    },
+    "9": {
+        "project_id": 9,
+        "project_name": "Civic Plaza Recreational Complex Phase 2",
+        "completion_certificate_date": "2025-10-10",
+        "statutory_days": 60,
+        "release_deadline": "2025-12-09"
+    },
+    "10": {
+        "project_id": 10,
+        "project_name": "High-Power Light Rail Trackways Infrastructure",
+        "completion_certificate_date": "2021-11-11",
+        "statutory_days": 60,
+        "release_deadline": "2022-01-10"
+    },
+    "11": {
+        "project_id": 11,
+        "project_name": "Waterfront Expressway Corridor Stabilization",
+        "completion_certificate_date": "2022-12-12",
+        "statutory_days": 60,
+        "release_deadline": "2023-02-10"
+    },
+    "12": {
+        "project_id": 12,
+        "project_name": "Combined Sewer Water Treatment Plant Reservoir",
+        "completion_certificate_date": "2023-01-13",
+        "statutory_days": 60,
+        "release_deadline": "2023-03-14"
+    },
+    "13": {
+        "project_id": 13,
+        "project_name": "Metropolitan Bus Maintenance Depot Corridor",
+        "completion_certificate_date": "2024-02-14",
+        "statutory_days": 60,
+        "release_deadline": "2024-04-14"
+    },
+    "14": {
+        "project_id": 14,
+        "project_name": "Community Civic Resources Hub & Aquatic Park",
+        "completion_certificate_date": "2025-03-15",
+        "statutory_days": 45,
+        "release_deadline": "2025-04-29"
+    },
+    "15": {
+        "project_id": 15,
+        "project_name": "Central Sewer separation Line Upgrade",
+        "completion_certificate_date": "2021-04-16",
+        "statutory_days": 45,
+        "release_deadline": "2021-05-31"
+    },
+    "16": {
+        "project_id": 16,
+        "project_name": "Regional Airport Terminal Concourse Expansion",
+        "completion_certificate_date": "2022-05-17",
+        "statutory_days": 45,
+        "release_deadline": "2022-07-01"
+    },
+    "17": {
+        "project_id": 17,
+        "project_name": "South Corridor Expressway Corridor Project",
+        "completion_certificate_date": "2023-06-18",
+        "statutory_days": 45,
+        "release_deadline": "2023-08-02"
+    },
+    "18": {
+        "project_id": 18,
+        "project_name": "Downtown Light Rail Trackways Interchange",
+        "completion_certificate_date": "2024-07-19",
+        "statutory_days": 45,
+        "release_deadline": "2024-09-02"
+    },
+    "19": {
+        "project_id": 19,
+        "project_name": "North District Recreational Complex Center",
+        "completion_certificate_date": "2025-08-20",
+        "statutory_days": 30,
+        "release_deadline": "2025-09-19"
+    },
+    "20": {
+        "project_id": 20,
+        "project_name": "Municipal Water Treatment Plant Hardening",
+        "completion_certificate_date": "2021-09-21",
+        "statutory_days": 30,
+        "release_deadline": "2021-10-21"
+    },
+    "21": {
+        "project_id": 21,
+        "project_name": "Seismic Recreational Complex Retrofit",
+        "completion_certificate_date": "2022-10-22",
+        "statutory_days": 30,
+        "release_deadline": "2022-11-21"
+    },
+    "22": {
+        "project_id": 22,
+        "project_name": "Eastside Bridge Rehabilitation Widening",
+        "completion_certificate_date": "2023-11-23",
+        "statutory_days": 30,
+        "release_deadline": "2023-12-23"
+    },
+    "23": {
+        "project_id": 23,
+        "project_name": "Central Valley Sewer separation Line Trunk Line",
+        "completion_certificate_date": "2024-12-24",
+        "statutory_days": 30,
+        "release_deadline": "2025-01-23"
+    },
+    "24": {
+        "project_id": 24,
+        "project_name": "Civic Plaza Civic Resources Hub Phase 2",
+        "completion_certificate_date": "2025-01-25",
+        "statutory_days": 60,
+        "release_deadline": "2025-03-26"
+    },
+    "25": {
+        "project_id": 25,
+        "project_name": "High-Power Bus Maintenance Depot Infrastructure",
+        "completion_certificate_date": "2021-02-26",
+        "statutory_days": 60,
+        "release_deadline": "2021-04-27"
+    },
+    "26": {
+        "project_id": 26,
+        "project_name": "Waterfront Bridge Rehabilitation Stabilization",
+        "completion_certificate_date": "2022-03-27",
+        "statutory_days": 60,
+        "release_deadline": "2022-05-26"
+    },
+    "27": {
+        "project_id": 27,
+        "project_name": "Combined Sewer Sewer separation Line Reservoir",
+        "completion_certificate_date": "2023-04-28",
+        "statutory_days": 60,
+        "release_deadline": "2023-06-27"
+    },
+    "28": {
+        "project_id": 28,
+        "project_name": "Metropolitan Light Rail Trackways Corridor",
+        "completion_certificate_date": "2024-05-01",
+        "statutory_days": 60,
+        "release_deadline": "2024-06-30"
+    },
+    "29": {
+        "project_id": 29,
+        "project_name": "Community Recreational Complex & Aquatic Park",
+        "completion_certificate_date": "2025-06-02",
+        "statutory_days": 60,
+        "release_deadline": "2025-08-01"
+    },
+    "30": {
+        "project_id": 30,
+        "project_name": "Central Water Treatment Plant Upgrade",
+        "completion_certificate_date": "2021-07-03",
+        "statutory_days": 60,
+        "release_deadline": "2021-09-01"
+    },
+    "31": {
+        "project_id": 31,
+        "project_name": "Regional Cargo Freight Depot Expansion",
+        "completion_certificate_date": "2022-08-04",
+        "statutory_days": 60,
+        "release_deadline": "2022-10-03"
+    },
+    "32": {
+        "project_id": 32,
+        "project_name": "South Corridor Bridge Rehabilitation Project",
+        "completion_certificate_date": "2023-09-05",
+        "statutory_days": 60,
+        "release_deadline": "2023-11-04"
+    },
+    "33": {
+        "project_id": 33,
+        "project_name": "Downtown Bus Maintenance Depot Interchange",
+        "completion_certificate_date": "2024-10-06",
+        "statutory_days": 60,
+        "release_deadline": "2024-12-05"
+    },
+    "34": {
+        "project_id": 34,
+        "project_name": "North District Civic Resources Hub Center",
+        "completion_certificate_date": "2025-11-07",
+        "statutory_days": 60,
+        "release_deadline": "2026-01-06"
+    },
+    "35": {
+        "project_id": 35,
+        "project_name": "Municipal Sewer separation Line Hardening",
+        "completion_certificate_date": "2021-12-08",
+        "statutory_days": 60,
+        "release_deadline": "2022-02-06"
+    },
+    "36": {
+        "project_id": 36,
+        "project_name": "Seismic Civic Resources Hub Retrofit",
+        "completion_certificate_date": "2022-01-09",
+        "statutory_days": 60,
+        "release_deadline": "2022-03-10"
+    },
+    "37": {
+        "project_id": 37,
+        "project_name": "Eastside Expressway Corridor Widening",
+        "completion_certificate_date": "2023-02-10",
+        "statutory_days": 60,
+        "release_deadline": "2023-04-11"
+    },
+    "38": {
+        "project_id": 38,
+        "project_name": "Central Valley Water Treatment Plant Trunk Line",
+        "completion_certificate_date": "2024-03-11",
+        "statutory_days": 45,
+        "release_deadline": "2024-04-25"
+    },
+    "39": {
+        "project_id": 39,
+        "project_name": "Civic Plaza Recreational Complex Phase 2",
+        "completion_certificate_date": "2025-04-12",
+        "statutory_days": 45,
+        "release_deadline": "2025-05-27"
+    },
+    "40": {
+        "project_id": 40,
+        "project_name": "High-Power Light Rail Trackways Infrastructure",
+        "completion_certificate_date": "2021-05-13",
+        "statutory_days": 45,
+        "release_deadline": "2021-06-27"
+    },
+    "41": {
+        "project_id": 41,
+        "project_name": "Waterfront Expressway Corridor Stabilization",
+        "completion_certificate_date": "2022-06-14",
+        "statutory_days": 45,
+        "release_deadline": "2022-07-29"
+    },
+    "42": {
+        "project_id": 42,
+        "project_name": "Combined Sewer Water Treatment Plant Reservoir",
+        "completion_certificate_date": "2023-07-15",
+        "statutory_days": 45,
+        "release_deadline": "2023-08-29"
+    },
+    "43": {
+        "project_id": 43,
+        "project_name": "Metropolitan Bus Maintenance Depot Corridor",
+        "completion_certificate_date": "2024-08-16",
+        "statutory_days": 30,
+        "release_deadline": "2024-09-15"
+    },
+    "44": {
+        "project_id": 44,
+        "project_name": "Community Civic Resources Hub & Aquatic Park",
+        "completion_certificate_date": "2025-09-17",
+        "statutory_days": 30,
+        "release_deadline": "2025-10-17"
+    },
+    "45": {
+        "project_id": 45,
+        "project_name": "Central Sewer separation Line Upgrade",
+        "completion_certificate_date": "2021-10-18",
+        "statutory_days": 30,
+        "release_deadline": "2021-11-17"
+    },
+    "46": {
+        "project_id": 46,
+        "project_name": "Regional Airport Terminal Concourse Expansion",
+        "completion_certificate_date": "2022-11-19",
+        "statutory_days": 30,
+        "release_deadline": "2022-12-19"
+    },
+    "47": {
+        "project_id": 47,
+        "project_name": "South Corridor Expressway Corridor Project",
+        "completion_certificate_date": "2023-12-20",
+        "statutory_days": 30,
+        "release_deadline": "2024-01-19"
+    },
+    "48": {
+        "project_id": 48,
+        "project_name": "Downtown Light Rail Trackways Interchange",
+        "completion_certificate_date": "2024-01-21",
+        "statutory_days": 60,
+        "release_deadline": "2024-03-21"
+    },
+    "49": {
+        "project_id": 49,
+        "project_name": "North District Recreational Complex Center",
+        "completion_certificate_date": "2025-02-22",
+        "statutory_days": 60,
+        "release_deadline": "2025-04-23"
+    },
+    "50": {
+        "project_id": 50,
+        "project_name": "Municipal Water Treatment Plant Hardening",
+        "completion_certificate_date": "2021-03-23",
+        "statutory_days": 60,
+        "release_deadline": "2021-05-22"
+    },
+    "51": {
+        "project_id": 51,
+        "project_name": "Seismic Recreational Complex Retrofit",
+        "completion_certificate_date": "2022-04-24",
+        "statutory_days": 60,
+        "release_deadline": "2022-06-23"
+    },
+    "52": {
+        "project_id": 52,
+        "project_name": "Eastside Bridge Rehabilitation Widening",
+        "completion_certificate_date": "2023-05-25",
+        "statutory_days": 60,
+        "release_deadline": "2023-07-24"
+    },
+    "53": {
+        "project_id": 53,
+        "project_name": "Central Valley Sewer separation Line Trunk Line",
+        "completion_certificate_date": "2024-06-26",
+        "statutory_days": 60,
+        "release_deadline": "2024-08-25"
+    },
+    "54": {
+        "project_id": 54,
+        "project_name": "Civic Plaza Civic Resources Hub Phase 2",
+        "completion_certificate_date": "2025-07-27",
+        "statutory_days": 60,
+        "release_deadline": "2025-09-25"
+    },
+    "55": {
+        "project_id": 55,
+        "project_name": "High-Power Bus Maintenance Depot Infrastructure",
+        "completion_certificate_date": "2021-08-28",
+        "statutory_days": 60,
+        "release_deadline": "2021-10-27"
+    },
+    "56": {
+        "project_id": 56,
+        "project_name": "Waterfront Bridge Rehabilitation Stabilization",
+        "completion_certificate_date": "2022-09-01",
+        "statutory_days": 60,
+        "release_deadline": "2022-10-31"
+    },
+    "57": {
+        "project_id": 57,
+        "project_name": "Combined Sewer Sewer separation Line Reservoir",
+        "completion_certificate_date": "2023-10-02",
+        "statutory_days": 60,
+        "release_deadline": "2023-12-01"
+    },
+    "58": {
+        "project_id": 58,
+        "project_name": "Metropolitan Light Rail Trackways Corridor",
+        "completion_certificate_date": "2024-11-03",
+        "statutory_days": 60,
+        "release_deadline": "2025-01-02"
+    },
+    "59": {
+        "project_id": 59,
+        "project_name": "Community Recreational Complex & Aquatic Park",
+        "completion_certificate_date": "2025-12-04",
+        "statutory_days": 60,
+        "release_deadline": "2026-02-02"
+    },
+    "60": {
+        "project_id": 60,
+        "project_name": "Central Water Treatment Plant Upgrade",
+        "completion_certificate_date": "2021-01-05",
+        "statutory_days": 60,
+        "release_deadline": "2021-03-06"
+    },
+    "61": {
+        "project_id": 61,
+        "project_name": "Regional Cargo Freight Depot Expansion",
+        "completion_certificate_date": "2022-02-06",
+        "statutory_days": 60,
+        "release_deadline": "2022-04-07"
+    },
+    "62": {
+        "project_id": 62,
+        "project_name": "South Corridor Bridge Rehabilitation Project",
+        "completion_certificate_date": "2023-03-07",
+        "statutory_days": 45,
+        "release_deadline": "2023-04-21"
+    },
+    "63": {
+        "project_id": 63,
+        "project_name": "Downtown Bus Maintenance Depot Interchange",
+        "completion_certificate_date": "2024-04-08",
+        "statutory_days": 45,
+        "release_deadline": "2024-05-23"
+    },
+    "64": {
+        "project_id": 64,
+        "project_name": "North District Civic Resources Hub Center",
+        "completion_certificate_date": "2025-05-09",
+        "statutory_days": 45,
+        "release_deadline": "2025-06-23"
+    },
+    "65": {
+        "project_id": 65,
+        "project_name": "Municipal Sewer separation Line Hardening",
+        "completion_certificate_date": "2021-06-10",
+        "statutory_days": 45,
+        "release_deadline": "2021-07-25"
+    },
+    "66": {
+        "project_id": 66,
+        "project_name": "Seismic Civic Resources Hub Retrofit",
+        "completion_certificate_date": "2022-07-11",
+        "statutory_days": 45,
+        "release_deadline": "2022-08-25"
+    },
+    "67": {
+        "project_id": 67,
+        "project_name": "Eastside Expressway Corridor Widening",
+        "completion_certificate_date": "2023-08-12",
+        "statutory_days": 30,
+        "release_deadline": "2023-09-11"
+    },
+    "68": {
+        "project_id": 68,
+        "project_name": "Central Valley Water Treatment Plant Trunk Line",
+        "completion_certificate_date": "2024-09-13",
+        "statutory_days": 30,
+        "release_deadline": "2024-10-13"
+    },
+    "69": {
+        "project_id": 69,
+        "project_name": "Civic Plaza Recreational Complex Phase 2",
+        "completion_certificate_date": "2025-10-14",
+        "statutory_days": 30,
+        "release_deadline": "2025-11-13"
+    },
+    "70": {
+        "project_id": 70,
+        "project_name": "High-Power Light Rail Trackways Infrastructure",
+        "completion_certificate_date": "2021-11-15",
+        "statutory_days": 30,
+        "release_deadline": "2021-12-15"
+    },
+    "71": {
+        "project_id": 71,
+        "project_name": "Waterfront Expressway Corridor Stabilization",
+        "completion_certificate_date": "2022-12-16",
+        "statutory_days": 30,
+        "release_deadline": "2023-01-15"
+    },
+    "72": {
+        "project_id": 72,
+        "project_name": "Combined Sewer Water Treatment Plant Reservoir",
+        "completion_certificate_date": "2023-01-17",
+        "statutory_days": 60,
+        "release_deadline": "2023-03-18"
+    },
+    "73": {
+        "project_id": 73,
+        "project_name": "Metropolitan Bus Maintenance Depot Corridor",
+        "completion_certificate_date": "2024-02-18",
+        "statutory_days": 60,
+        "release_deadline": "2024-04-18"
+    },
+    "74": {
+        "project_id": 74,
+        "project_name": "Community Civic Resources Hub & Aquatic Park",
+        "completion_certificate_date": "2025-03-19",
+        "statutory_days": 60,
+        "release_deadline": "2025-05-18"
+    },
+    "75": {
+        "project_id": 75,
+        "project_name": "Central Sewer separation Line Upgrade",
+        "completion_certificate_date": "2021-04-20",
+        "statutory_days": 60,
+        "release_deadline": "2021-06-19"
+    },
+    "76": {
+        "project_id": 76,
+        "project_name": "Regional Airport Terminal Concourse Expansion",
+        "completion_certificate_date": "2022-05-21",
+        "statutory_days": 60,
+        "release_deadline": "2022-07-20"
+    },
+    "77": {
+        "project_id": 77,
+        "project_name": "South Corridor Expressway Corridor Project",
+        "completion_certificate_date": "2023-06-22",
+        "statutory_days": 60,
+        "release_deadline": "2023-08-21"
+    },
+    "78": {
+        "project_id": 78,
+        "project_name": "Downtown Light Rail Trackways Interchange",
+        "completion_certificate_date": "2024-07-23",
+        "statutory_days": 60,
+        "release_deadline": "2024-09-21"
+    },
+    "79": {
+        "project_id": 79,
+        "project_name": "North District Recreational Complex Center",
+        "completion_certificate_date": "2025-08-24",
+        "statutory_days": 60,
+        "release_deadline": "2025-10-23"
+    },
+    "80": {
+        "project_id": 80,
+        "project_name": "Municipal Water Treatment Plant Hardening",
+        "completion_certificate_date": "2021-09-25",
+        "statutory_days": 60,
+        "release_deadline": "2021-11-24"
+    },
+    "81": {
+        "project_id": 81,
+        "project_name": "Seismic Recreational Complex Retrofit",
+        "completion_certificate_date": "2022-10-26",
+        "statutory_days": 60,
+        "release_deadline": "2022-12-25"
+    },
+    "82": {
+        "project_id": 82,
+        "project_name": "Eastside Bridge Rehabilitation Widening",
+        "completion_certificate_date": "2023-11-27",
+        "statutory_days": 60,
+        "release_deadline": "2024-01-26"
+    },
+    "83": {
+        "project_id": 83,
+        "project_name": "Central Valley Sewer separation Line Trunk Line",
+        "completion_certificate_date": "2024-12-28",
+        "statutory_days": 60,
+        "release_deadline": "2025-02-26"
+    },
+    "84": {
+        "project_id": 84,
+        "project_name": "Civic Plaza Civic Resources Hub Phase 2",
+        "completion_certificate_date": "2025-01-01",
+        "statutory_days": 60,
+        "release_deadline": "2025-03-02"
+    },
+    "85": {
+        "project_id": 85,
+        "project_name": "High-Power Bus Maintenance Depot Infrastructure",
+        "completion_certificate_date": "2021-02-02",
+        "statutory_days": 60,
+        "release_deadline": "2021-04-03"
+    },
+    "86": {
+        "project_id": 86,
+        "project_name": "Waterfront Bridge Rehabilitation Stabilization",
+        "completion_certificate_date": "2022-03-03",
+        "statutory_days": 45,
+        "release_deadline": "2022-04-17"
+    },
+    "87": {
+        "project_id": 87,
+        "project_name": "Combined Sewer Sewer separation Line Reservoir",
+        "completion_certificate_date": "2023-04-04",
+        "statutory_days": 45,
+        "release_deadline": "2023-05-19"
+    },
+    "88": {
+        "project_id": 88,
+        "project_name": "Metropolitan Light Rail Trackways Corridor",
+        "completion_certificate_date": "2024-05-05",
+        "statutory_days": 45,
+        "release_deadline": "2024-06-19"
+    },
+    "89": {
+        "project_id": 89,
+        "project_name": "Community Recreational Complex & Aquatic Park",
+        "completion_certificate_date": "2025-06-06",
+        "statutory_days": 45,
+        "release_deadline": "2025-07-21"
+    },
+    "90": {
+        "project_id": 90,
+        "project_name": "Central Water Treatment Plant Upgrade",
+        "completion_certificate_date": "2021-07-07",
+        "statutory_days": 45,
+        "release_deadline": "2021-08-21"
+    },
+    "91": {
+        "project_id": 91,
+        "project_name": "Regional Cargo Freight Depot Expansion",
+        "completion_certificate_date": "2022-08-08",
+        "statutory_days": 30,
+        "release_deadline": "2022-09-07"
+    },
+    "92": {
+        "project_id": 92,
+        "project_name": "South Corridor Bridge Rehabilitation Project",
+        "completion_certificate_date": "2023-09-09",
+        "statutory_days": 30,
+        "release_deadline": "2023-10-09"
+    },
+    "93": {
+        "project_id": 93,
+        "project_name": "Downtown Bus Maintenance Depot Interchange",
+        "completion_certificate_date": "2024-10-10",
+        "statutory_days": 30,
+        "release_deadline": "2024-11-09"
+    },
+    "94": {
+        "project_id": 94,
+        "project_name": "North District Civic Resources Hub Center",
+        "completion_certificate_date": "2025-11-11",
+        "statutory_days": 30,
+        "release_deadline": "2025-12-11"
+    },
+    "95": {
+        "project_id": 95,
+        "project_name": "Municipal Sewer separation Line Hardening",
+        "completion_certificate_date": "2021-12-12",
+        "statutory_days": 30,
+        "release_deadline": "2022-01-11"
+    },
+    "96": {
+        "project_id": 96,
+        "project_name": "Seismic Civic Resources Hub Retrofit",
+        "completion_certificate_date": "2022-01-13",
+        "statutory_days": 60,
+        "release_deadline": "2022-03-14"
+    },
+    "97": {
+        "project_id": 97,
+        "project_name": "Eastside Expressway Corridor Widening",
+        "completion_certificate_date": "2023-02-14",
+        "statutory_days": 60,
+        "release_deadline": "2023-04-15"
+    },
+    "98": {
+        "project_id": 98,
+        "project_name": "Central Valley Water Treatment Plant Trunk Line",
+        "completion_certificate_date": "2024-03-15",
+        "statutory_days": 60,
+        "release_deadline": "2024-05-14"
+    },
+    "99": {
+        "project_id": 99,
+        "project_name": "Civic Plaza Recreational Complex Phase 2",
+        "completion_certificate_date": "2025-04-16",
+        "statutory_days": 60,
+        "release_deadline": "2025-06-15"
+    },
+    "100": {
+        "project_id": 100,
+        "project_name": "High-Power Light Rail Trackways Infrastructure",
+        "completion_certificate_date": "2021-05-17",
+        "statutory_days": 60,
+        "release_deadline": "2021-07-16"
+    }
+}

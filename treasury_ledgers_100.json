@@ -1,0 +1,802 @@
+{
+    "1": {
+        "project_id": 1,
+        "contract_value": 1173000,
+        "retainage_withheld": 117300.0,
+        "ledger_account_id": "MUN-RET-2026-0001",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "2": {
+        "project_id": 2,
+        "contract_value": 1296000,
+        "retainage_withheld": 129600.0,
+        "ledger_account_id": "MUN-RET-2026-0002",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "3": {
+        "project_id": 3,
+        "contract_value": 1420000,
+        "retainage_withheld": 142000.0,
+        "ledger_account_id": "MUN-RET-2026-0003",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "4": {
+        "project_id": 4,
+        "contract_value": 1543000,
+        "retainage_withheld": 154300.0,
+        "ledger_account_id": "MUN-RET-2026-0004",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "5": {
+        "project_id": 5,
+        "contract_value": 1667000,
+        "retainage_withheld": 166700.0,
+        "ledger_account_id": "MUN-RET-2026-0005",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "6": {
+        "project_id": 6,
+        "contract_value": 1790000,
+        "retainage_withheld": 179000.0,
+        "ledger_account_id": "MUN-RET-2026-0006",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "7": {
+        "project_id": 7,
+        "contract_value": 1914000,
+        "retainage_withheld": 191400.0,
+        "ledger_account_id": "MUN-RET-2026-0007",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "8": {
+        "project_id": 8,
+        "contract_value": 2037000,
+        "retainage_withheld": 203700.0,
+        "ledger_account_id": "MUN-RET-2026-0008",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "9": {
+        "project_id": 9,
+        "contract_value": 2161000,
+        "retainage_withheld": 216100.0,
+        "ledger_account_id": "MUN-RET-2026-0009",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "10": {
+        "project_id": 10,
+        "contract_value": 2284000,
+        "retainage_withheld": 228400.0,
+        "ledger_account_id": "MUN-RET-2026-0010",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "11": {
+        "project_id": 11,
+        "contract_value": 2408000,
+        "retainage_withheld": 240800.0,
+        "ledger_account_id": "MUN-RET-2026-0011",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "12": {
+        "project_id": 12,
+        "contract_value": 2531000,
+        "retainage_withheld": 253100.0,
+        "ledger_account_id": "MUN-RET-2026-0012",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "13": {
+        "project_id": 13,
+        "contract_value": 2654000,
+        "retainage_withheld": 265400.0,
+        "ledger_account_id": "MUN-RET-2026-0013",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "14": {
+        "project_id": 14,
+        "contract_value": 2778000,
+        "retainage_withheld": 277800.0,
+        "ledger_account_id": "MUN-RET-2026-0014",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "15": {
+        "project_id": 15,
+        "contract_value": 2901000,
+        "retainage_withheld": 290100.0,
+        "ledger_account_id": "MUN-RET-2026-0015",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "16": {
+        "project_id": 16,
+        "contract_value": 3025000,
+        "retainage_withheld": 302500.0,
+        "ledger_account_id": "MUN-RET-2026-0016",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "17": {
+        "project_id": 17,
+        "contract_value": 3148000,
+        "retainage_withheld": 314800.0,
+        "ledger_account_id": "MUN-RET-2026-0017",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "18": {
+        "project_id": 18,
+        "contract_value": 3272000,
+        "retainage_withheld": 327200.0,
+        "ledger_account_id": "MUN-RET-2026-0018",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "19": {
+        "project_id": 19,
+        "contract_value": 3395000,
+        "retainage_withheld": 339500.0,
+        "ledger_account_id": "MUN-RET-2026-0019",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "20": {
+        "project_id": 20,
+        "contract_value": 3519000,
+        "retainage_withheld": 351900.0,
+        "ledger_account_id": "MUN-RET-2026-0020",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "21": {
+        "project_id": 21,
+        "contract_value": 3642000,
+        "retainage_withheld": 364200.0,
+        "ledger_account_id": "MUN-RET-2026-0021",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "22": {
+        "project_id": 22,
+        "contract_value": 3766000,
+        "retainage_withheld": 376600.0,
+        "ledger_account_id": "MUN-RET-2026-0022",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "23": {
+        "project_id": 23,
+        "contract_value": 3889000,
+        "retainage_withheld": 388900.0,
+        "ledger_account_id": "MUN-RET-2026-0023",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "24": {
+        "project_id": 24,
+        "contract_value": 4012000,
+        "retainage_withheld": 401200.0,
+        "ledger_account_id": "MUN-RET-2026-0024",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "25": {
+        "project_id": 25,
+        "contract_value": 4136000,
+        "retainage_withheld": 413600.0,
+        "ledger_account_id": "MUN-RET-2026-0025",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "26": {
+        "project_id": 26,
+        "contract_value": 4259000,
+        "retainage_withheld": 425900.0,
+        "ledger_account_id": "MUN-RET-2026-0026",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "27": {
+        "project_id": 27,
+        "contract_value": 4383000,
+        "retainage_withheld": 438300.0,
+        "ledger_account_id": "MUN-RET-2026-0027",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "28": {
+        "project_id": 28,
+        "contract_value": 4506000,
+        "retainage_withheld": 450600.0,
+        "ledger_account_id": "MUN-RET-2026-0028",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "29": {
+        "project_id": 29,
+        "contract_value": 4630000,
+        "retainage_withheld": 463000.0,
+        "ledger_account_id": "MUN-RET-2026-0029",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "30": {
+        "project_id": 30,
+        "contract_value": 4753000,
+        "retainage_withheld": 475300.0,
+        "ledger_account_id": "MUN-RET-2026-0030",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "31": {
+        "project_id": 31,
+        "contract_value": 4877000,
+        "retainage_withheld": 487700.0,
+        "ledger_account_id": "MUN-RET-2026-0031",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "32": {
+        "project_id": 32,
+        "contract_value": 5000000,
+        "retainage_withheld": 500000.0,
+        "ledger_account_id": "MUN-RET-2026-0032",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "33": {
+        "project_id": 33,
+        "contract_value": 5124000,
+        "retainage_withheld": 512400.0,
+        "ledger_account_id": "MUN-RET-2026-0033",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "34": {
+        "project_id": 34,
+        "contract_value": 5247000,
+        "retainage_withheld": 524700.0,
+        "ledger_account_id": "MUN-RET-2026-0034",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "35": {
+        "project_id": 35,
+        "contract_value": 5370000,
+        "retainage_withheld": 537000.0,
+        "ledger_account_id": "MUN-RET-2026-0035",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "36": {
+        "project_id": 36,
+        "contract_value": 5494000,
+        "retainage_withheld": 549400.0,
+        "ledger_account_id": "MUN-RET-2026-0036",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "37": {
+        "project_id": 37,
+        "contract_value": 5617000,
+        "retainage_withheld": 561700.0,
+        "ledger_account_id": "MUN-RET-2026-0037",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "38": {
+        "project_id": 38,
+        "contract_value": 5741000,
+        "retainage_withheld": 574100.0,
+        "ledger_account_id": "MUN-RET-2026-0038",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "39": {
+        "project_id": 39,
+        "contract_value": 5864000,
+        "retainage_withheld": 586400.0,
+        "ledger_account_id": "MUN-RET-2026-0039",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "40": {
+        "project_id": 40,
+        "contract_value": 5988000,
+        "retainage_withheld": 598800.0,
+        "ledger_account_id": "MUN-RET-2026-0040",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "41": {
+        "project_id": 41,
+        "contract_value": 6111000,
+        "retainage_withheld": 611100.0,
+        "ledger_account_id": "MUN-RET-2026-0041",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "42": {
+        "project_id": 42,
+        "contract_value": 6235000,
+        "retainage_withheld": 623500.0,
+        "ledger_account_id": "MUN-RET-2026-0042",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "43": {
+        "project_id": 43,
+        "contract_value": 6358000,
+        "retainage_withheld": 635800.0,
+        "ledger_account_id": "MUN-RET-2026-0043",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "44": {
+        "project_id": 44,
+        "contract_value": 6482000,
+        "retainage_withheld": 648200.0,
+        "ledger_account_id": "MUN-RET-2026-0044",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "45": {
+        "project_id": 45,
+        "contract_value": 6605000,
+        "retainage_withheld": 660500.0,
+        "ledger_account_id": "MUN-RET-2026-0045",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "46": {
+        "project_id": 46,
+        "contract_value": 6729000,
+        "retainage_withheld": 672900.0,
+        "ledger_account_id": "MUN-RET-2026-0046",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "47": {
+        "project_id": 47,
+        "contract_value": 6852000,
+        "retainage_withheld": 685200.0,
+        "ledger_account_id": "MUN-RET-2026-0047",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "48": {
+        "project_id": 48,
+        "contract_value": 6975000,
+        "retainage_withheld": 697500.0,
+        "ledger_account_id": "MUN-RET-2026-0048",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "49": {
+        "project_id": 49,
+        "contract_value": 7099000,
+        "retainage_withheld": 709900.0,
+        "ledger_account_id": "MUN-RET-2026-0049",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "50": {
+        "project_id": 50,
+        "contract_value": 7222000,
+        "retainage_withheld": 722200.0,
+        "ledger_account_id": "MUN-RET-2026-0050",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "51": {
+        "project_id": 51,
+        "contract_value": 7346000,
+        "retainage_withheld": 734600.0,
+        "ledger_account_id": "MUN-RET-2026-0051",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "52": {
+        "project_id": 52,
+        "contract_value": 7469000,
+        "retainage_withheld": 746900.0,
+        "ledger_account_id": "MUN-RET-2026-0052",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "53": {
+        "project_id": 53,
+        "contract_value": 7593000,
+        "retainage_withheld": 759300.0,
+        "ledger_account_id": "MUN-RET-2026-0053",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "54": {
+        "project_id": 54,
+        "contract_value": 7716000,
+        "retainage_withheld": 771600.0,
+        "ledger_account_id": "MUN-RET-2026-0054",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "55": {
+        "project_id": 55,
+        "contract_value": 7840000,
+        "retainage_withheld": 784000.0,
+        "ledger_account_id": "MUN-RET-2026-0055",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "56": {
+        "project_id": 56,
+        "contract_value": 7963000,
+        "retainage_withheld": 796300.0,
+        "ledger_account_id": "MUN-RET-2026-0056",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "57": {
+        "project_id": 57,
+        "contract_value": 8087000,
+        "retainage_withheld": 808700.0,
+        "ledger_account_id": "MUN-RET-2026-0057",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "58": {
+        "project_id": 58,
+        "contract_value": 8210000,
+        "retainage_withheld": 821000.0,
+        "ledger_account_id": "MUN-RET-2026-0058",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "59": {
+        "project_id": 59,
+        "contract_value": 8333000,
+        "retainage_withheld": 833300.0,
+        "ledger_account_id": "MUN-RET-2026-0059",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "60": {
+        "project_id": 60,
+        "contract_value": 8457000,
+        "retainage_withheld": 845700.0,
+        "ledger_account_id": "MUN-RET-2026-0060",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "61": {
+        "project_id": 61,
+        "contract_value": 8580000,
+        "retainage_withheld": 858000.0,
+        "ledger_account_id": "MUN-RET-2026-0061",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "62": {
+        "project_id": 62,
+        "contract_value": 8704000,
+        "retainage_withheld": 870400.0,
+        "ledger_account_id": "MUN-RET-2026-0062",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "63": {
+        "project_id": 63,
+        "contract_value": 8827000,
+        "retainage_withheld": 882700.0,
+        "ledger_account_id": "MUN-RET-2026-0063",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "64": {
+        "project_id": 64,
+        "contract_value": 8951000,
+        "retainage_withheld": 895100.0,
+        "ledger_account_id": "MUN-RET-2026-0064",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "65": {
+        "project_id": 65,
+        "contract_value": 9074000,
+        "retainage_withheld": 907400.0,
+        "ledger_account_id": "MUN-RET-2026-0065",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "66": {
+        "project_id": 66,
+        "contract_value": 9198000,
+        "retainage_withheld": 919800.0,
+        "ledger_account_id": "MUN-RET-2026-0066",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "67": {
+        "project_id": 67,
+        "contract_value": 9321000,
+        "retainage_withheld": 932100.0,
+        "ledger_account_id": "MUN-RET-2026-0067",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "68": {
+        "project_id": 68,
+        "contract_value": 9445000,
+        "retainage_withheld": 944500.0,
+        "ledger_account_id": "MUN-RET-2026-0068",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "69": {
+        "project_id": 69,
+        "contract_value": 9568000,
+        "retainage_withheld": 956800.0,
+        "ledger_account_id": "MUN-RET-2026-0069",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "70": {
+        "project_id": 70,
+        "contract_value": 9691000,
+        "retainage_withheld": 969100.0,
+        "ledger_account_id": "MUN-RET-2026-0070",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "71": {
+        "project_id": 71,
+        "contract_value": 9815000,
+        "retainage_withheld": 981500.0,
+        "ledger_account_id": "MUN-RET-2026-0071",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "72": {
+        "project_id": 72,
+        "contract_value": 9938000,
+        "retainage_withheld": 993800.0,
+        "ledger_account_id": "MUN-RET-2026-0072",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "73": {
+        "project_id": 73,
+        "contract_value": 10062000,
+        "retainage_withheld": 1006200.0,
+        "ledger_account_id": "MUN-RET-2026-0073",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "74": {
+        "project_id": 74,
+        "contract_value": 10185000,
+        "retainage_withheld": 1018500.0,
+        "ledger_account_id": "MUN-RET-2026-0074",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "75": {
+        "project_id": 75,
+        "contract_value": 10309000,
+        "retainage_withheld": 1030900.0,
+        "ledger_account_id": "MUN-RET-2026-0075",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "76": {
+        "project_id": 76,
+        "contract_value": 10432000,
+        "retainage_withheld": 1043200.0,
+        "ledger_account_id": "MUN-RET-2026-0076",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "77": {
+        "project_id": 77,
+        "contract_value": 10556000,
+        "retainage_withheld": 1055600.0,
+        "ledger_account_id": "MUN-RET-2026-0077",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "78": {
+        "project_id": 78,
+        "contract_value": 10679000,
+        "retainage_withheld": 1067900.0,
+        "ledger_account_id": "MUN-RET-2026-0078",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "79": {
+        "project_id": 79,
+        "contract_value": 10803000,
+        "retainage_withheld": 1080300.0,
+        "ledger_account_id": "MUN-RET-2026-0079",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "80": {
+        "project_id": 80,
+        "contract_value": 10926000,
+        "retainage_withheld": 1092600.0,
+        "ledger_account_id": "MUN-RET-2026-0080",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "81": {
+        "project_id": 81,
+        "contract_value": 11049000,
+        "retainage_withheld": 1104900.0,
+        "ledger_account_id": "MUN-RET-2026-0081",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "82": {
+        "project_id": 82,
+        "contract_value": 11173000,
+        "retainage_withheld": 1117300.0,
+        "ledger_account_id": "MUN-RET-2026-0082",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "83": {
+        "project_id": 83,
+        "contract_value": 11296000,
+        "retainage_withheld": 1129600.0,
+        "ledger_account_id": "MUN-RET-2026-0083",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "84": {
+        "project_id": 84,
+        "contract_value": 11420000,
+        "retainage_withheld": 1142000.0,
+        "ledger_account_id": "MUN-RET-2026-0084",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "85": {
+        "project_id": 85,
+        "contract_value": 11543000,
+        "retainage_withheld": 1154300.0,
+        "ledger_account_id": "MUN-RET-2026-0085",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "86": {
+        "project_id": 86,
+        "contract_value": 11667000,
+        "retainage_withheld": 1166700.0,
+        "ledger_account_id": "MUN-RET-2026-0086",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "87": {
+        "project_id": 87,
+        "contract_value": 11790000,
+        "retainage_withheld": 1179000.0,
+        "ledger_account_id": "MUN-RET-2026-0087",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "88": {
+        "project_id": 88,
+        "contract_value": 11914000,
+        "retainage_withheld": 1191400.0,
+        "ledger_account_id": "MUN-RET-2026-0088",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "89": {
+        "project_id": 89,
+        "contract_value": 12037000,
+        "retainage_withheld": 1203700.0,
+        "ledger_account_id": "MUN-RET-2026-0089",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "90": {
+        "project_id": 90,
+        "contract_value": 12161000,
+        "retainage_withheld": 1216100.0,
+        "ledger_account_id": "MUN-RET-2026-0090",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    },
+    "91": {
+        "project_id": 91,
+        "contract_value": 12284000,
+        "retainage_withheld": 1228400.0,
+        "ledger_account_id": "MUN-RET-2026-0091",
+        "status": "HOLD_ACTIVE",
+        "comments": "Accounts Payable staffing shortages and standard post-audit backlogs."
+    },
+    "92": {
+        "project_id": 92,
+        "contract_value": 12408000,
+        "retainage_withheld": 1240800.0,
+        "ledger_account_id": "MUN-RET-2026-0092",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical delay in final closeout ledger verification in the treasury control branch."
+    },
+    "93": {
+        "project_id": 93,
+        "contract_value": 12531000,
+        "retainage_withheld": 1253100.0,
+        "ledger_account_id": "MUN-RET-2026-0093",
+        "status": "HOLD_ACTIVE",
+        "comments": "Administrative lag in processing final municipal lien waiver documentation."
+    },
+    "94": {
+        "project_id": 94,
+        "contract_value": 12654000,
+        "retainage_withheld": 1265400.0,
+        "ledger_account_id": "MUN-RET-2026-0094",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in executing final electronic funds transfer from the capital works escrow account."
+    },
+    "95": {
+        "project_id": 95,
+        "contract_value": 12778000,
+        "retainage_withheld": 1277800.0,
+        "ledger_account_id": "MUN-RET-2026-0095",
+        "status": "HOLD_ACTIVE",
+        "comments": "Awaiting routine year-end municipal spending review board formal sign-off."
+    },
+    "96": {
+        "project_id": 96,
+        "contract_value": 12901000,
+        "retainage_withheld": 1290100.0,
+        "ledger_account_id": "MUN-RET-2026-0096",
+        "status": "HOLD_ACTIVE",
+        "comments": "Queue congestion in the municipal accounting office's closeout division."
+    },
+    "97": {
+        "project_id": 97,
+        "contract_value": 13025000,
+        "retainage_withheld": 1302500.0,
+        "ledger_account_id": "MUN-RET-2026-0097",
+        "status": "HOLD_ACTIVE",
+        "comments": "Delay in clerical processing of contractor-submitted final closeout certificates."
+    },
+    "98": {
+        "project_id": 98,
+        "contract_value": 13148000,
+        "retainage_withheld": 1314800.0,
+        "ledger_account_id": "MUN-RET-2026-0098",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury administrative logjam in processing final sales and use tax tax-exempt audits."
+    },
+    "99": {
+        "project_id": 99,
+        "contract_value": 13272000,
+        "retainage_withheld": 1327200.0,
+        "ledger_account_id": "MUN-RET-2026-0099",
+        "status": "HOLD_ACTIVE",
+        "comments": "Clerical backlog in local municipal records department final archiving process."
+    },
+    "100": {
+        "project_id": 100,
+        "contract_value": 13395000,
+        "retainage_withheld": 1339500.0,
+        "ledger_account_id": "MUN-RET-2026-0100",
+        "status": "HOLD_ACTIVE",
+        "comments": "Treasury queue delay following municipal ERP financial software platform migration."
+    }
+}
